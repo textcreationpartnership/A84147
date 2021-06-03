@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The noble order, or The honour which God conferr's on them that honour His. Humbly presented to the Lords of Parliament, in a sermon preached before their Honours at the Abby Church at Westminster, January 28. 1645. The solemne day of their publick humiliation. / By Daniel Evance Master of Arts Sid. Suff. Coll. Camb. lesse than the least of them all that serve in the gospell. Clement Danes London.</title>
+            <author>Evance, Daniel.</author>
+         </titleStmt>
+         <extent>Approx. 107KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84147</idno><idno type="EEBO-CITATION">99861273</idno>
+  <idno type="VID">113404</idno>
+  <idno type="EEBO-PROQUEST">2240882449</idno>
+  
+            <idno type="STC">Wing E3443</idno>
+            <idno type="STC">Thomason E319_10</idno>
+            <idno type="STC">ESTC R200556</idno>
+            <idno type="PROQUEST">99861273</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861273e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84147)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113404)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E319[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The noble order, or The honour which God conferr's on them that honour His. Humbly presented to the Lords of Parliament, in a sermon preached before their Honours at the Abby Church at Westminster, January 28. 1645. The solemne day of their publick humiliation. / By Daniel Evance Master of Arts Sid. Suff. Coll. Camb. lesse than the least of them all that serve in the gospell. Clement Danes London.</title>
+                  <author>Evance, Daniel.</author>
+               </titleStmt>
+               <extent>[8], 46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Abel Roper, at the signe of the Sunne in Fleet-street, over against St. Dunstans church,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on recto of first leaf.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Samuel, 1st II, 30 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:113404:1"/>
+            <pb facs="tcp:113404:1"/>
+            <head>TO THE RIGHT HONOVRABLE THE HOVSE of LORDS ASSEMBLED IN PARLIAMENT.</head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Honours were then <hi>Princes in sack<g ref="char:EOLhyphen"/>cloth,</hi> and it was one argument of your <hi>humbled spirits,</hi> that your Honours gave so <hi>gracious entertainment</hi> to so <hi>poore a mes<g ref="char:EOLhyphen"/>senger.</hi>
+            </p>
+            <pb facs="tcp:113404:2"/>
+            <p>I <hi>omitted</hi> something while I spake before you, that I might <hi>invite</hi> your Honours to <hi>heare.</hi> And I have <hi>added</hi> a little now, that I may invite your Ho<g ref="char:EOLhyphen"/>nours to <hi>reade.</hi>
+            </p>
+            <p>The Lord keepe your Ho<g ref="char:EOLhyphen"/>nours <hi>humble</hi> in the midst of all your <hi>successes,</hi> that your hearts may not be <hi>lifted up</hi> upon the great things that God hath done <hi>by you,</hi> and <hi>for you.</hi>
+            </p>
+            <p>Thinke on the <hi>poore Church</hi> of Christ, and hasten the settling of <hi>some government,</hi> that the <hi>Foxes</hi> may be taken that <hi>destroy</hi> the <hi>Vines.</hi> Thinke on those that <hi>perish for want of knowledge,</hi> and <hi>thrust out more Labourers</hi> into the Vineyard; Yea, thinke on
+<pb facs="tcp:113404:2"/> those that <hi>labour</hi> in the vine<g ref="char:EOLhyphen"/>yard, and let them have their <hi>double honour.</hi>
+            </p>
+            <p>The God of heaven <hi>streng<g ref="char:EOLhyphen"/>then</hi> your Honours <hi>hearts</hi> and <hi>hands,</hi> that you may <hi>continue</hi> to <hi>contend</hi> for <hi>truth</hi> and <hi>peace,</hi> and in the <hi>seeking</hi> of both, <hi>honour God,</hi> that <hi>God</hi> may <hi>honour you,</hi> and <hi>encrease</hi> your Honours.</p>
+            <closer>
+               <signed>I am my Lords, The meanest and weakest, but a faithfull servant to your Honours in Christ, DANIEL EVANCE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113404:3"/>
+            <pb n="1" facs="tcp:113404:3"/>
+            <head>The Noble order, Or, The Honour, that God doth to them that Honour Him. Delivered In a Fast Sermon before the House of Lords, Upon 1 SAM. 2.30. <hi>For them, that Honour me, will I Honour.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Mapp</hi> and <hi>draft</hi> of that Story,<note place="margin">§ 1. The Connexi<g ref="char:EOLhyphen"/>on the Text with the story.</note> whereof this Text is a but <hi>spott, Is</hi> [<note n="*" place="margin">Beginning at the 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vers. <hi>Vs{que}. ad finem capitis.</hi>
+               </note>
+               <hi>Gods judiciall processe against</hi> E<g ref="char:EOLhyphen"/>ly <hi>and his House.</hi>]</p>
+            <p>
+               <hi>Ely</hi> was now advanced to <hi>the Priesthood,</hi> and <hi>the priesthood</hi> (it seemes)<note n="*" place="margin">Ver 30.</note>
+               <hi>entailed by promise</hi> upon his House for ever.</p>
+            <p>While <hi>the Familie</hi> stood in <hi>this posture,</hi> and ser<g ref="char:EOLhyphen"/>vice of <hi>Honour,</hi> the <hi>office</hi> was <hi>abused;</hi>
+               <note place="margin">Ver. 12 <hi>Us{que} ad</hi> 18. Ver. 22, <hi>Us{que} ad</hi> 25.</note>
+               <hi>partly</hi> by the sinnes of <hi>Elyes Sonns,</hi> and <hi>partly</hi> by <hi>Elyes owne sin;</hi> By his sonnes <hi>chiefly,</hi> in the <hi>loosness of their lives;</hi> and yet by <hi>Ely</hi> too, in the <hi>loosness of his discipline.</hi>
+            </p>
+            <p>Upon this <hi>delinquencie Ely</hi> is committed to the <hi>black Rod;</hi> and a <hi>Bill of Attainder</hi> preferred against
+<pb n="2" facs="tcp:113404:4"/> him by<note n="*" place="margin">Verse 27.</note>
+               <hi>A man of God,</hi> that came unto him in the name of the Lord.</p>
+            <p>
+               <note place="margin">From the 27 ver. <hi>Us{que} ad</hi> 30</note>The <hi>charge</hi> lights <hi>heavy</hi> upon <hi>Ely,</hi> and is aggra<g ref="char:EOLhyphen"/>vated against him from <hi>swelling circumstances;</hi> [Gods <hi>benefits,</hi> Elyes <hi>Advancement,</hi> the <hi>dignity</hi> of his office and <hi>Priesthood,</hi> the <hi>abuse of all, suffering</hi> his sonnes,<note n="*" place="margin">So called ver. 12.</note>
+               <hi>those sons of Belial,</hi> to goe unpunisht, which God calls The kicking at <hi>His</hi> Sacrifice, and at <hi>His</hi> offerings, and the preferring of his sons be<g ref="char:EOLhyphen"/>fore him, <hi>vers.</hi> 29.</p>
+            <p>According to this high charge God proceeds to sentence against him,<note place="margin">Verse 30.</note>
+               <hi>vers.</hi> 30. <hi>[Wherefore the Lord God of Israel saith, I said indeed, that thy house, and the house of thy father should walke before m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for ever: But now thus faith the Lord, Be it far from me,</hi>
+               <note place="margin">§. 2. The Analysis of the whole verse, in which the Text lyes.</note>
+               <hi>For them that honour me, will I honour.]</hi>
+            </p>
+            <p>In the whole verse, there are these three things considerable.</p>
+            <p n="1">
+               <note n="*" place="margin">
+                  <hi>Heb.</hi> dicendo dixeram. Planè proposue<g ref="char:EOLhyphen"/>ram <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otius.</hi>
+               </note>1. Elyes <hi>enstallment,</hi> or a large <hi>grant of honour</hi> to <hi>Ely</hi> and his house for ever: <hi>[I said indeed, that thy House, and the house of thy Father should walke before me for ever]</hi>
+               <note n="*" place="margin">Decreveram onminò, ita sta<g ref="char:EOLhyphen"/>tueram: <hi>Vata<g ref="char:EOLhyphen"/>blus,</hi> &amp; <hi>Peter Mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yr,</hi> promisi olim <hi>Francis de Mendoc.</hi>
+               </note>
+               <hi>J said it,</hi> Heb. <hi>I saying, said it; i. e. I certainly said it; I plainly said it;</hi> I <hi>decreed</hi> it; or, <hi>I promised</hi> it; you may take it in what sence you will; But what was it, that God <hi>said,</hi> or <hi>de<g ref="char:EOLhyphen"/>creed,</hi> or <hi>promis'd?</hi> It was a large, and noble grant, that <hi>Ely</hi> and his House should<note n="*" place="margin">Ambularent coram me, i. e. fungerentur of<g ref="char:EOLhyphen"/>ficio summi sa<g ref="char:EOLhyphen"/>cerdotis, <hi>Vata<g ref="char:EOLhyphen"/>blus, Peter Martyr, &amp;c.</hi> Non patitur Iu<g ref="char:EOLhyphen"/>stitia mea ut sacerdotium vo<g ref="char:EOLhyphen"/>bis diutiùs per<g ref="char:EOLhyphen"/>mittam. <hi>Pet. Mart.</hi>
+               </note>
+               <hi>walke before him for ever; i. e.</hi> In one word, that <hi>the priesthood</hi> should <hi>continue</hi> in <hi>Elyes</hi> house, <hi>as long as that worship lasted.</hi>
+            </p>
+            <p n="2">2. <hi>Elyes degrading,</hi> or Gods revoking of this pro<g ref="char:EOLhyphen"/>mise: the <hi>white staffe</hi> is taken from him; <hi>[But now, thus saith the Lord, be it farre from me.]</hi>
+            </p>
+            <pb n="3" facs="tcp:113404:4"/>
+            <p>
+               <hi>But now, i. e.</hi> since you and your sons have abused your selves, and abused the Priesthood— <hi>Be it farre from mee, i. e.</hi> The <hi>priesthood</hi> shall not continue in your house, though I once sayd it.</p>
+            <p n="3">3. <hi>Gods Reason,</hi> or His ground of proceeding a<g ref="char:EOLhyphen"/>gainst <hi>Ely</hi> in this severity; And that lyes in the words of the text, <hi>[For, them, that honour mee, will I honour.]</hi>
+            </p>
+            <p>I have nothing to do with the <hi>Context,</hi>
+               <note place="margin">§ 3. The Connexi<g ref="char:EOLhyphen"/>on of the text with the im<g ref="char:EOLhyphen"/>mediate Con<g ref="char:EOLhyphen"/>text.</note> farther then it may contribute some light and assistance to the Text; This is cleare by the first particle <hi>[For]</hi> that the words stand in some <hi>Connexion</hi> and affinitie with that which went <hi>immediatly before;</hi> And so they are, <hi>the Ground or Reason of Gods re<g ref="char:EOLhyphen"/>pealing of a grand ordinance</hi> which was made for the setling of the <hi>Priesthood</hi> upon <hi>Ely</hi> and his house for ever.</p>
+            <p>
+               <hi>I said indeed, &amp;c. But now</hi>—&amp;c. <hi>For them,</hi> &amp;c. The <hi>Ordinances</hi> indeed, that are made in the high<g ref="char:EOLhyphen"/>est Courts on earth, are subject <hi>to Repeales.</hi>
+            </p>
+            <p>But a man would wonder, that any thing, which <hi>the unchangeable God</hi> hath once <hi>sayd,</hi> or <hi>decreed,</hi> or <hi>promis'd,</hi> should ever be <hi>call'd in,</hi> and <hi>Cancell'd.</hi> I have but this one knot to unty, as I passe from the Context to the Text, and the <hi>Resolving</hi> of it will <hi>open a doore</hi> for us into <hi>the words,</hi> and then wee <hi>enter.</hi>
+               <note place="margin">§. 4. The propoun<g ref="char:EOLhyphen"/>ding of a great doubt which lyes in the Context. But i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> easily resol<g ref="char:EOLhyphen"/>ved by the text.</note>
+            </p>
+            <p>Quaere. How can God be said <hi>to say</hi> and <hi>unsay? [I sayd indeed that Ely and his House should walke before mee, but Now, be it farre from mee.]</hi> Is not this <hi>J,</hi> and <hi>No?</hi> or, may it not argue a kind of change in Gods will?</p>
+            <pb n="4" facs="tcp:113404:5"/>
+            <p>Resp. <hi>Vorstius</hi> is both a <hi>knave</hi> and a <hi>foole</hi> in this point, who in stead of <hi>untying</hi> this knot, quite <hi>cuts</hi> it; And, that he might secure the <hi>Arminian</hi> from <hi>Blasphemy,</hi> audaciously makes himselfe <hi>the blasphe<g ref="char:EOLhyphen"/>mer</hi> — in that detestable conclusion, That<note n="*" place="margin">Jn parte ali<g ref="char:EOLhyphen"/>quâ divini de<g ref="char:EOLhyphen"/>creti fieri ali quam mutatio<g ref="char:EOLhyphen"/>nem. V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rst. de Deo.</note>
+               <hi>there may be some change made in some part of Gods will.</hi> An <hi>Assertion</hi> to be <hi>accursed</hi> with the <hi>Anathema</hi> of every soule, that professeth it selfe <hi>Christian.</hi>
+            </p>
+            <p>
+               <hi>Aquinas,</hi> and the Schooles are <hi>sound,</hi> but <hi>subtile,</hi> who affirme, that [though <hi>God never changeth his will,</hi> yet <hi>hee may will the change of some things;</hi>]<note n="*" place="margin">Voluntas Dei est omnino im<g ref="char:EOLhyphen"/>mutabilis, sed aliud est mutare voluntatem, &amp; aliud est velle. Aliquarum re<g ref="char:EOLhyphen"/>rum mutationem, <hi>Aq. part. 1 a. Q 19. Art. 7.</hi> R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vocat sen<g ref="char:EOLhyphen"/>tentiam, ipse non mutatur. <hi>Peter Martyr,</hi>
+               </note>
+               <hi>Others speak more plainly</hi> [God may change <hi>the Sentence</hi> which he hath <hi>pronounced,</hi> but never the <hi>Councell</hi> which he hath <hi>decreed;</hi>] and therefore <hi>God</hi> is not <hi>changed,</hi> when the <hi>sentence</hi> is <hi>changeable,</hi> because God hath <hi>unchangeably</hi> decreed with him<g ref="char:EOLhyphen"/>selfe, what shall be <hi>changed</hi> in order to us.</p>
+            <p>The common streame of our best Interpre<g ref="char:EOLhyphen"/>ters gives us the fullest satisfaction: [the <hi>Decrees</hi> of God, they are not all of them <hi>absolutely definite,</hi> but many of them are <hi>conditionall,</hi>] and though the Condition be not alwayes exprest, yet it is to be understood of course; And such was <hi>the pro<g ref="char:EOLhyphen"/>mise,</hi> that was here made to <hi>Ely,</hi> or the <hi>decree</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Ely</hi> in order to the Priesthood:<note n="*" place="margin">Decreta Dei non omnia sunt absolutè defini<g ref="char:EOLhyphen"/>ta, sed multa conditionem in sc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>contin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, Quâ deficiente deficiunt, <hi>Gro<g ref="char:EOLhyphen"/>tius.</hi>
+               </note> It could not bee <hi>absolute,</hi> because it was not <hi>fulfilled,</hi> and therefore it was but <hi>conditionall.</hi>
+            </p>
+            <p>This would be noted in the point, and the <hi>knot</hi> is <hi>loose.</hi>
+               <note n="*" place="margin">Non absolut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> f<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Rei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sâ <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pleta, or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conditio<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ta. <hi>Francist. de Mendoc.</hi>
+               </note> 1. There are some <hi>promises,</hi> which are part<g ref="char:EOLhyphen"/>ly <hi>absolute,</hi> and partly <hi>conditionall:</hi> As for exam<g ref="char:EOLhyphen"/>ple; The promise of bringing the <hi>Israelites</hi> to <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> In respect of <hi>the Nation,</hi> it was an <hi>absolute
+<pb n="5" facs="tcp:113404:5"/> promise,</hi> And therefore at length really <hi>accomp<g ref="char:EOLhyphen"/>lisht.</hi> But in respect of every <hi>particular Isralite</hi> it had an <hi>implicite condition,</hi> viz. <hi>Jf they believed and obeyed.</hi> And therefore the most of them dyed in the wildernes because of there <hi>murmuring.</hi>
+            </p>
+            <p n="2">2. There are some <hi>promises</hi> which are absolutely <hi>exprest,</hi> But yet they are made upon <hi>condition,</hi> and are so to be understood: As some <hi>threatnings</hi> are made upon condition of <hi>impenitencie,</hi> so are some <hi>promises</hi> upon condition of <hi>obedience.</hi>
+            </p>
+            <p>[<note place="margin">Ionah. 3.4.</note> Yet forty dayes and <hi>Nineveh</hi> shall be destroy<g ref="char:EOLhyphen"/>ed;] The threatning seemes to be <hi>absolute</hi> and <hi>de<g ref="char:EOLhyphen"/>finite,</hi> And yet to be understood with this <hi>reserve,</hi> unlesse <hi>Nineveh Repent.</hi> And so for promises. [<note place="margin">Gen. 6.3.</note>
+               <hi>Yet his dayes shal be an hundred &amp; twenty yeares.</hi>]</p>
+            <p>
+               <note place="margin">Vid annotat. in bibl. folio. vid. <hi>Fra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cisc. de Mendoc.</hi> in <hi>1.</hi> Sam. <hi>2 30.</hi>
+               </note>It is a promise or grant to the old world, of so <hi>ma<g ref="char:EOLhyphen"/>ny yeares space of Repentance</hi> before the flood should come: And interpriters observe, that God <hi>cutt short</hi> the promise about twenty yeares, because the wickednes of man was great upon the Earth; For<note place="margin">Compare <hi>Gen</hi> 6.3. w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th <hi>Gen.</hi> 7.6.</note>
+               <hi>Noah was five hundred yeares old</hi> when the <hi>pro<g ref="char:EOLhyphen"/>mise</hi> was made, &amp; but <hi>sixe hundred,</hi> when the <hi>flood</hi> came: And therefore, There was an <hi>implicite con<g ref="char:EOLhyphen"/>dition,</hi> Though the <hi>promise</hi> was <hi>exprest absolutely</hi>
+            </p>
+            <p n="3">3. To put all out of Question; The case is cleare concerning the poynt in hand; That, Though Gods <hi>Decree</hi> concerning <hi>Elye</hi> seemed to be most <hi>absolute [I sayd indeed, that thy House should walke before mee for ever]</hi> Yet, That God intended a <hi>condition</hi> is most <hi>plaine;</hi> Not only by Gods <hi>re<g ref="char:EOLhyphen"/>voaking</hi> of the promise <hi>[But now, Be it far from me;]</hi> But because God adds the <hi>condition</hi> in the
+<pb n="6" facs="tcp:113404:6"/> words of the Text, And adds it as the <hi>reason,</hi> why he did <hi>Revoake the promise. [For them, that Ho<g ref="char:EOLhyphen"/>nour me will I Honour.]</hi> Which is as if God had sayd: When I sayd it concerning the House of <hi>Ely,</hi> That the <hi>priesthood</hi> should continue in his House for ever, It was but <hi>upon condition,</hi> That <hi>They should Honour me</hi> in the <hi>priesthood:</hi> But <hi>Ely</hi> and his Sons dishonoured me in the Office; And therefore be it far from me, <hi>For them, that Honour me, will I Ho<g ref="char:EOLhyphen"/>nour.</hi>
+            </p>
+            <p>
+               <note place="margin">§ 5. The full resol<g ref="char:EOLhyphen"/>ving of the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ubt.</note>The summe of all comes to this: <hi>[God holds still to his principles, or to that Decree which is unchangeable]</hi> I will Honour them, that Honour mee.</p>
+            <p>And therefore if <hi>Ely</hi> be <hi>casheird,</hi> when God said he should walke before him, It is not because <hi>God is changeable,</hi> but because his <hi>Decree</hi> is <hi>unchangeable: Ely</hi> dishonours God in his Office; And therefore God <hi>casheirs Ely;</hi> And God is still at his owne <hi>principle; For them that Honour me will I Ho<g ref="char:EOLhyphen"/>nour.</hi>
+            </p>
+            <p>But I have kept you too long in the <hi>Suburbs</hi> and <hi>Outworkes</hi> of the Text; It is high time now to <hi>enter:</hi> The Text it selfe (without any mangling or breaking) I shall take up in the <hi>masse</hi> and <hi>Lump;</hi>
+               <note place="margin">§. 6. The text layd cut for hand<g ref="char:EOLhyphen"/>ling.</note> And only present it to you under a double No<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="1">1. As the <hi>particular ground</hi> of Gods proceeding against <hi>Ely</hi> to degrade him from the priesthood.</p>
+            <p n="2">2. As the <hi>generall rule</hi> of Gods intentions to<g ref="char:EOLhyphen"/>wards all in the poynt of Honour.</p>
+            <pb n="7" facs="tcp:113404:6"/>
+            <p>The first takes-in the Connexion of the Text with the story in the first particle <hi>[For.]</hi>
+            </p>
+            <p>The <hi>second</hi> takes up the Text by it selfe. <hi>As the generall and perpetuall rule of Honour.</hi> For, <hi>Them that Honour mee I will Honour.</hi>
+            </p>
+            <p>1.</p>
+            <p>If you consider the words <hi>As a particular ground</hi> of Gods proceeding against <hi>Ely.</hi>
+               <note place="margin">§. 7. Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> text hand<g ref="char:EOLhyphen"/>led as a g ound of <hi>Flyes</hi> degra<g ref="char:EOLhyphen"/>ding.</note> To sequester him and his House for ever from the priests office, So there are <hi>three things implyed.</hi>
+            </p>
+            <p n="1">1. <hi>God Honoured Ely</hi> and his House in advan<g ref="char:EOLhyphen"/>cing them to the office of the priesthood.</p>
+            <p n="2">2. <hi>God expected,</hi> That <hi>Ely</hi> and his House should <hi>Honour him</hi> in that place of Honour.</p>
+            <p n="3">3. <hi>God declares,</hi>
+               <note place="margin">Iusta illa Judi<g ref="char:EOLhyphen"/>cia Chald. paraph.</note> That his proceedings against them, because they did not Honour him, were just and equall from <hi>this principle, For them that Ho<g ref="char:EOLhyphen"/>nour mee, will I Honour.</hi>
+            </p>
+            <p>I meddle not with these observations severally, because they doe but border on the text, and are ra<g ref="char:EOLhyphen"/>ther <hi>implyed</hi> then <hi>exprest;</hi> And yet I must dis<g ref="char:EOLhyphen"/>course them over in a generall way, gliding out of one into the other, that you may have a smack and taste of all.</p>
+            <p>It must needs be an <hi>honourable service</hi> to be <hi>im<g ref="char:EOLhyphen"/>ploy'd for God;</hi> Let the service bee never so <hi>meane,</hi>
+               <note place="margin">1. Poynt.</note> yet if it be <hi>for God,</hi> it is <hi>honourable.</hi> If it bee no more, then to be a <hi>doore-keeper</hi> in the house of God; to <hi>hew wood,</hi> or to <hi>draw water;</hi> yet, if it bee <hi>for God,</hi> it is <hi>a place of honour.</hi> Wee are wont to say, <hi>[No service to the service of a King.]</hi> The <hi>honour</hi> and <hi>greatness</hi> of a <hi>Lord</hi> and <hi>Master reflects
+<pb n="8" facs="tcp:113404:7"/> with Honour</hi> upon the <hi>lowest,</hi> and <hi>meanest</hi> servant in the family; I had almost sayd, the Kings <hi>Foole</hi> hath <hi>a place of honour,</hi> because hee hath a King to his master; And therefore what a <hi>shine of honour, glitters</hi> upon them that are <hi>Enobled</hi> to this exceed<g ref="char:EOLhyphen"/>ing great dignity, to have <hi>dependance</hi> upon, and <hi>at<g ref="char:EOLhyphen"/>tendance</hi> on the great <hi>Jehovah? David</hi> thought it a greater honour to style himselfe <hi>the servant of God,</hi> then <hi>the King of Israel:</hi> and <hi>Paul</hi> (as an Apo<g ref="char:EOLhyphen"/>stle) to <hi>serve</hi> Christ, then (as a Pharisee) to bee called <hi>Rabbi.</hi>
+            </p>
+            <p>To <hi>serve,</hi> is a kind of <hi>Diminution</hi> in it selfe; But to be a servant <hi>to some Masters,</hi> is a <hi>greater ho<g ref="char:EOLhyphen"/>nour,</hi> then to be a <hi>Freeman.</hi>
+            </p>
+            <p>There are three things that make <hi>any service honourable;</hi> If wee serve an <hi>honourable Master,</hi> if we serve in an <hi>honourable imployment,</hi> and if wee serve upon <hi>honourable tearmes.</hi> Now there is no man that is imployed <hi>for God,</hi> but all these <hi>beames of honour,</hi> they <hi>meet</hi> together and <hi>mingle their strength,</hi> to <hi>guild over</hi> that man with the highest state of Honour. The <hi>master</hi> that <hi>you</hi> serve is <hi>a great Lord,</hi> and the <hi>service</hi> that you do is the <hi>best ser<g ref="char:EOLhyphen"/>vice,</hi> because done for <hi>such a master;</hi> And the <hi>Re<g ref="char:EOLhyphen"/>ward</hi> you shall have is according to the greatness of your master, and according to the honour of your service.</p>
+            <p>My Lords, it was an <hi>honour</hi> for <hi>Ely,</hi> that he was <hi>a priest</hi> in Gods house; and it is an <hi>honour</hi> to you, that God hath made you <hi>Rulers</hi> in Israel. The Scripture makes it <hi>a periphrasis</hi> of the <hi>dignity of Kings [They shall walke in and out before their peo<g ref="char:EOLhyphen"/>ple.]</hi>
+               <pb n="9" facs="tcp:113404:7"/> And God Records it, as <hi>the honour,</hi> which he did to <hi>Ely,</hi> that he had said it concerning his house, [that <hi>they should walke before him.</hi>] It is a <hi>Kings honour,</hi> that he <hi>walkes before</hi> his people, but it is <hi>the honour of them</hi> that are <hi>imployed in any service for God,</hi> that <hi>they walke before God.</hi> It was <hi>a Queene,</hi> that <hi>blest those servants,</hi> that <hi>stood before King Solo<g ref="char:EOLhyphen"/>mon,</hi> but it is <hi>a God,</hi> that <hi>blesseth</hi> those <hi>Princes,</hi> that <hi>stand before</hi> the <hi>God of Solomon.</hi>
+            </p>
+            <p>Now, where God bestowes <hi>most honour,</hi> there <label type="milestone">
+                  <seg type="milestoneunit">Poynt. </seg>II</label> God requires <hi>most service;</hi> If <hi>God</hi> honour <hi>Ely</hi> with the <hi>priesthood, Ely</hi> must honour <hi>God</hi> in it. We are wont to say <hi>[Honos onus.]</hi> And it is most true here; If God advance to the <hi>Service of honour,</hi> God requires <hi>the honour of service;</hi> It is this that makes the <hi>state of honour</hi> so <hi>epilepticall,</hi> so <hi>slippery,</hi> and <hi>tottering,</hi> and <hi>unstable</hi> at the highest, because there is <hi>a burden of service,</hi> a <hi>weight</hi> of <hi>duty</hi> that lyes on it; And if the <hi>honourable</hi> become <hi>unserviceable,</hi> truly they are <hi>the greatest fooles in Israel.</hi>
+            </p>
+            <p>The <hi>salt,</hi> when it hath lost its <hi>savour,</hi> is <hi>the ho<g ref="char:EOLhyphen"/>nourable</hi> when they become <hi>unserviceable;</hi> That <hi>salt</hi> is good for nothing but the <hi>dunghill,</hi> and that <hi>Honour</hi> is fit for nothing but the <hi>dust;</hi> If God make it the Law of honour <hi>on his part,</hi> to <hi>honour them that honour him;</hi> How much more is it the law of Honour <hi>on mans part,</hi> to <hi>honour God</hi> in the <hi>places of Honour</hi> that God hath exalted man too?</p>
+            <p>The <hi>Nest of honour</hi> is so <hi>high built,</hi> that the <hi>Bird</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poynt. </seg>III</label> in it thinkes it shall never be <hi>cast downe;</hi> But while <hi>Belshazar</hi> is in <hi>the pride of his greatness,</hi> the <hi>King<g ref="char:EOLhyphen"/>dome</hi> may be <hi>numbred,</hi> and the <hi>King weighed,</hi>
+               <note place="margin">
+                  <hi>Dan</hi> 5.25.</note> and
+<pb n="10" facs="tcp:113404:8"/>
+               <hi>the Principality divided,</hi> and given to the <hi>Meads</hi> and <hi>Persians.</hi> It is <hi>Grace</hi> only that <hi>perpetuates</hi> Ho<g ref="char:EOLhyphen"/>nour, but <hi>sin degrades</hi> it; There is <hi>a Moth</hi> (my Lords) that can <hi>feed</hi> upon <hi>Scarlet,</hi> and <hi>eat thorow furres;</hi> And the Text tells u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that <hi>sinne</hi> will [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Septuagint.</note>] <hi>Exininate</hi> honour, and turne it into dust and nothing; You have <hi>Cabinets</hi> and <hi>Caskets</hi> for your <hi>Jewels</hi> and <hi>Treasures,</hi> but a <hi>mans name,</hi> a mans <hi>honour</hi> is not in his owne keeping.</p>
+            <p>
+               <note place="margin">Honor est in ho<g ref="char:EOLhyphen"/>norante.</note>Wee are wont to say, <hi>Honour is in him that ho<g ref="char:EOLhyphen"/>nours;</hi> And how easie is it for that God, (who is the Commander of hearts) to make <hi>him</hi> to <hi>be de<g ref="char:EOLhyphen"/>spised</hi> among the people that <hi>despiseth</hi> God?</p>
+            <p>
+               <note place="margin">Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ante benè placito.</note>Gods <hi>Patents</hi> and <hi>Grants</hi> of <hi>honour,</hi> they are not <hi>perpetuall,</hi> but <hi>during his pleasure</hi> only; And if God say concerning a person, <hi>He shall walke before mee;</hi>
+               <note place="margin">Quam diu bene se gesserit.</note> It is said with <hi>a reserve,</hi> If <hi>he walke before me.</hi> It was the <hi>honour</hi> that God put upon <hi>Ely,</hi> that he said concerning him and his house <hi>[they shall walke before mee]</hi> and it was <hi>the duty</hi> that God ex<g ref="char:EOLhyphen"/>pected from <hi>Ely,</hi> that they should indeed <hi>walke be<g ref="char:EOLhyphen"/>fore him</hi> in that office of Honour.</p>
+            <p>Though <hi>Ely</hi> was settled by <hi>a promise</hi> in the priest<g ref="char:EOLhyphen"/>hood, yet God had the <hi>Condition</hi> in his owne bo<g ref="char:EOLhyphen"/>some; And because <hi>Ely</hi> and his <hi>sonnes</hi> dishonour <hi>God,</hi> they are all cashiered, <hi>For them, that honour me, will I honour.</hi> And this is the <hi>Relative accompt</hi> of the words (as they stand in Connexion with the story) and are given as <hi>a ground of</hi> Elyes <hi>de<g ref="char:EOLhyphen"/>grading.</hi>
+            </p>
+            <pb n="11" facs="tcp:113404:8"/>
+            <p>II.</p>
+            <p>To the words themselves,<note place="margin">§. 8. The words tooke up by themselves, and consider'd as the generall rule of Ho<g ref="char:EOLhyphen"/>nour. <hi>Illud signum universale est.</hi> Francisc. de Mendoc.</note> and so they are [<hi>The generall Rule of Gods intentions towards all,</hi> in the point of honour;] <hi>Calculated</hi> they are <hi>most proper<g ref="char:EOLhyphen"/>ly</hi> (as they stand here) for the <hi>Meridian</hi> of the High Priesthood, but yet may serve for the <hi>gene<g ref="char:EOLhyphen"/>rall Latitude</hi> of all <hi>eminencie</hi> whatsoever.</p>
+            <p>For God sayes <hi>[Them] them that honour mee;</hi> And <hi>this Them</hi> is such an <hi>universall,</hi> as takes in <hi>all,</hi> and excludes <hi>none.</hi>
+            </p>
+            <p>I must not <hi>Rack</hi> nor <hi>Torture</hi> the words, but shall present them to you in their owne <hi>Native</hi> beauty and fulnesse.</p>
+            <list>
+               <item>1. <hi>At distance,</hi> in their generall <hi>Prospect.</hi>
+               </item>
+               <item>2. <hi>At hand,</hi> in a stricter survey;</item>
+            </list>
+            <p>I would first carry you to the <hi>toppe of Pisgay,</hi> that you might <hi>take a view</hi> of this <hi>good Land,</hi> and then bring you within <hi>the borders,</hi> that you may <hi>taste</hi> the <hi>milke</hi> and <hi>honey.</hi>
+            </p>
+            <p>1.<note place="margin">§. 9. The handling of the words, considered a part by them<g ref="char:EOLhyphen"/>selves without their connexi<g ref="char:EOLhyphen"/>on, in their ge<g ref="char:EOLhyphen"/>nerall Notion.</note>
+            </p>
+            <p>If you <hi>stand</hi> at <hi>distance,</hi> and (as it were) upon the <hi>Hill-topp,</hi> there are these <hi>foure</hi> faire <hi>Prospects,</hi> that present themselves at the first <hi>cast</hi> to every <hi>eye.</hi> And you may call them (if you will) so many <hi>generall observations,</hi> that offer themselves willing<g ref="char:EOLhyphen"/>ly without <hi>vexing</hi> of the words at all.</p>
+            <p n="1">1. <hi>Prospect.</hi>
+               <note place="margin">I. An excellent connexion be<g ref="char:EOLhyphen"/>tweene An <hi>implicite</hi> duty, An <hi>explicite</hi> rewa d.</note> I observe here <hi>an execellent connexi<g ref="char:EOLhyphen"/>on</hi> betwixt <hi>service required</hi> and the <hi>reward promi<g ref="char:EOLhyphen"/>sed; God hath no intent at all to be served by his Creature for nought;</hi> If the <hi>service</hi> be but once <hi>hinted, [Them that honour mee]</hi> the <hi>reward</hi> is <hi>ex<g ref="char:EOLhyphen"/>prest in terminis [J will honour]</hi> Gods <hi>precepts</hi>
+               <pb n="12" facs="tcp:113404:9"/> are still waited upon by <hi>promises;</hi> Yea, His pre<g ref="char:EOLhyphen"/>cepts are but <hi>subservient</hi> to his promises; God <hi>Commands</hi> that he may <hi>promise;</hi> And would have <hi>obedience,</hi> That he may <hi>performe Blessednes</hi> to the Creature, whom he <hi>loves;</hi> And therefore as the <hi>precept</hi> comes forth (like <hi>Esau</hi>) there is <hi>a promise,</hi> which (like the hand of <hi>Jacob</hi>) takes hold on the heele of it, Doe but <hi>honour mee,</hi> and <hi>I will ho<g ref="char:EOLhyphen"/>nour.</hi>
+            </p>
+            <p>It is the peculiar <hi>Genius</hi> of that <hi>disposition,</hi> which we call bounty, to <hi>reward services,</hi> and that with a <hi>liberall</hi> and <hi>full</hi> hand, above the <hi>levell,</hi> and <hi>nature</hi> of the service; And therefore this is that, which <hi>triumphs</hi> most in <hi>Gods nature,</hi> (who is the foun<g ref="char:EOLhyphen"/>taine of bounty) that he can not brooke such a <hi>contradiction</hi> to himselfe, as <hi>to be served for nought.</hi>
+            </p>
+            <p>
+               <hi>Said I unto the seed</hi> of Jacob, <hi>seeke ye mee in vaine? Esay.</hi> 45.19. It is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, When a <hi>rich sence</hi> and meaning is put into <hi>low</hi> and <hi>meane</hi> words; And it results to this; I never <hi>said it,</hi> I never <hi>ex<g ref="char:EOLhyphen"/>acted it</hi> of <hi>Iacob</hi> or his seed, That they should serve me <hi>gratis;</hi> If I require <hi>service</hi> of <hi>Iacob,</hi> it is for his <hi>owne advantage,</hi> and not <hi>mine;</hi> And therefore <hi>Jacob</hi> shall never <hi>seeke me in vaine;</hi> That of our Saviour answers to this, <hi>Math.</hi> 10.42. <hi>Verily J say unto you, he shall not loose his reward,</hi> The mea<g ref="char:EOLhyphen"/>ning is not, that he shall have <hi>something,</hi> or that he shall have that which shall be as good to him as <hi>his Cup of cold water,</hi> but that he shall be <hi>richly</hi> and <hi>abundantly</hi> rewarded;<note place="margin">
+                  <hi>Pro.</hi> 11.18.</note>
+               <hi>Solomon</hi> calls it <hi>[mer<g ref="char:EOLhyphen"/>cedem certam]</hi> a sure reward;<note place="margin">
+                  <hi>Psa</hi> 19.11.</note> And <hi>David [mer<g ref="char:EOLhyphen"/>cedem valde magnam]</hi> an exceeding great reward.</p>
+            <pb n="13" facs="tcp:113404:9"/>
+            <p>The poynt is obvious; It is as impossible to af<g ref="char:EOLhyphen"/>firme it of the Creature <hi>(as he is a Creature)</hi> that he can <hi>serve God for nought,</hi> as to affirme it of God, (as <hi>he is God</hi>) that <hi>he must not be served;</hi> The <hi>be<g ref="char:EOLhyphen"/>nefits</hi> that are already in <hi>hand,</hi> besides the <hi>blessings</hi> that are in <hi>banck,</hi> doe infinitely <hi>outvye,</hi> and <hi>over<g ref="char:EOLhyphen"/>bid</hi> all the endeavours and <hi>service</hi> of the Crea<g ref="char:EOLhyphen"/>ture whatsoever.</p>
+            <p>There is no man, but he hath more <hi>about him</hi> in his <hi>present ingagements</hi> and <hi>obligations to God,</hi> then he wil be able to answer in his best services, though he should live out his eternity here; And then <hi>add</hi> a Christians <hi>reversions</hi> to his present <hi>possessions,</hi> and it may be <hi>read running,</hi> that God is not beholden to the Creature for any worke or service, that is done to him.</p>
+            <p>There is nothing, that the Creature can bestow on God, but might be exacted upon a <hi>bare Com<g ref="char:EOLhyphen"/>mand;</hi> And yet God <hi>adds</hi> the <hi>promise,</hi> when he <hi>presseth</hi> the <hi>precept;</hi> Not as a <hi>debt</hi> on <hi>Gods part;</hi>
+               <note place="margin">Psa, <hi>11.7.</hi> Amore redun<g ref="char:EOLhyphen"/>dante in perso<g ref="char:EOLhyphen"/>nam.</note> Nor yet, as <hi>desert</hi> and <hi>merit</hi> on <hi>ours;</hi> But because <hi>the righteous God loveth righteousnes,</hi> and <hi>would</hi> have the world <hi>fill'd with righteousnes,</hi> therefore<note n="*" place="margin">
+                  <hi>Hosea.</hi> 11.4.</note> he <hi>draws us on with the Cords of a man,</hi> And spurs us up to <hi>duty</hi> by the <hi>promise.</hi>
+            </p>
+            <p>These two are at <hi>great distance;</hi> the <hi>Love,</hi> that <hi>God</hi> hath to righteousnes, and the <hi>enmity,</hi> that <hi>man</hi> hath to righteousnes; And therefore that God might <hi>win</hi> man to the love of that which himselfe loves, [even therefore because <hi>God loves whom he loveth</hi>] God is faine to <hi>baite the booke,</hi> when he would <hi>catch the fish,</hi> and to hang the <hi>promise</hi> upon
+<pb n="14" facs="tcp:113404:10"/> the <hi>precept,</hi> that the Creature may be <hi>wonne</hi> to obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p n="2">
+               <note place="margin">II An excellent order.</note>2. <hi>Prospect.</hi> I observe here <hi>an excellent order;</hi> God first <hi>hints</hi> the <hi>service,</hi> and then <hi>expresseth</hi> the <hi>reward,</hi> first he requires the <hi>service of honour</hi> in that phrase <hi>[them that honour mee]</hi> and then he grants <hi>the reward of honour</hi> [I will honour.]</p>
+            <p>The great God must stand upon his owne <hi>prero<g ref="char:EOLhyphen"/>gative;</hi> And <hi>Gods prerogative</hi> is to be <hi>served first,</hi> and served <hi>simply,</hi> even therefore because the <hi>great God</hi> requires <hi>service,</hi> Though God wil not be served <hi>for nought,</hi> and therefore makes <hi>large promises;</hi> Yet he will not be served <hi>because of the promise,</hi> but <hi>be<g ref="char:EOLhyphen"/>cause of the precept,</hi> and therefore that goes first.</p>
+            <p>It is the <hi>Devill,</hi> that makes <hi>bargaines</hi> with his <hi>vassalls,</hi> to <hi>hyre</hi> them to his <hi>service,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>All these things will I give thee, if thou wilt fall downe and worship mee, Math.</hi> 4.9. But though God makes <hi>many promises</hi> to them, that serve him, yet he never makes <hi>any bargaines</hi> with them. It is not Gods <hi>contract</hi> with his people, <hi>to honour them, that honour him,</hi> But Gods <hi>gratuitye;</hi> And there<g ref="char:EOLhyphen"/>fore in all the obedience, that is done to God, a Christian must <hi>first eye</hi> the Command, and then the <hi>promise.</hi>
+            </p>
+            <p>It is not denyed, but I may looke upon the <hi>pro<g ref="char:EOLhyphen"/>mise</hi> as a <hi>motive,</hi> as an <hi>encouragement,</hi> as an <hi>obliga<g ref="char:EOLhyphen"/>tion,</hi> as an <hi>occasion</hi> to duty and obedience; But not as the <hi>end,</hi> and <hi>cause,</hi> and <hi>ground</hi> of my obedience, I may have <hi>respect</hi> to the <hi>recompence of reward.</hi> So had <hi>Moses;</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.26.</note> But to seeke Christ <hi>because of the Loaves,</hi> is to respect the <hi>Loaves</hi> more then Christ, or as much as Christ, and that is rotten.</p>
+            <pb n="15" facs="tcp:113404:10"/>
+            <p>It is an argument of a <hi>base</hi> and unworthy spirit, to <hi>serve for ends;</hi> If it were no more but in the <hi>service of man,</hi> or in the service of the state, it is most odious and <hi>distastfull.</hi> For a <hi>Captaine</hi> to <hi>fight,</hi> that he may <hi>divide the spoyle,</hi> or for a Mini<g ref="char:EOLhyphen"/>ster to comply with Covenants and <hi>Ordinances,</hi> that he may <hi>save his owne,</hi> or <hi>creepe higher.</hi> It is <hi>hist at</hi> by those, that serve God in their ge<g ref="char:EOLhyphen"/>neration, and therefore much more, <hi>To serve the great God for ends,</hi> is an abomination not to bee named among Christians. The <hi>Devill</hi> thought to have lockt <hi>Job</hi> upon that hip.<note place="margin">
+                  <hi>Iob</hi> 1.9.</note>
+               <hi>Does</hi> Job <hi>feare God for nought? i. e.</hi> In the <hi>Devills sence; Job</hi> had <hi>a By<g ref="char:EOLhyphen"/>as</hi> in what he did, and was carryed on in the strength and sweetnesse of selfe-respects to serve God; And truly, if <hi>the lyar</hi> could have made that good, <hi>Job</hi> had been an <hi>hypocrite</hi> indeed: Those that serve God upon such termes, they are not <hi>servants,</hi> but <hi>slaves;</hi> And truly, those that prove <hi>servile,</hi> they can never prove <hi>serviceable.</hi> It is <hi>merchan<g ref="char:EOLhyphen"/>dizing</hi> with God, and <hi>not obedience,</hi> to <hi>serve God,</hi> that I may <hi>serve my selfe;</hi> I am never at the <hi>pitch of sincerity,</hi> till I see enough in <hi>God himselfe</hi> to <hi>have him</hi> as <hi>my exceeding rich reward,</hi> and to accompt upon <hi>my strength to worke,</hi> as my <hi>best wages.</hi> When it comes once to this <hi>Que,</hi> that the <hi>Beauties</hi> of <hi>God,</hi> and the <hi>pleasantness</hi> of his <hi>wayes,</hi> and the <hi>Holinesse</hi> of his <hi>Will,</hi> and the <hi>equity</hi> of his <hi>Lawes,</hi> are the <hi>Arguments,</hi> and the <hi>wages,</hi> that <hi>hyre me</hi> to his <hi>service.</hi> I may cry [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] I have found that which my soul longs for: Otherwise, to be carried out to the ser<g ref="char:EOLhyphen"/>vice of God upon <hi>a leering byas,</hi> it argues a <hi>base,</hi>
+               <pb n="16" facs="tcp:113404:11"/> and <hi>forraigne</hi> spirit: as <hi>sin</hi> is <hi>punishment</hi> enough unto it selfe, though there were no other <hi>punish<g ref="char:EOLhyphen"/>ment</hi> [to <hi>doe evill</hi> were <hi>Hell</hi> sufficient, if there were no Hell <hi>to come after.</hi>] So <hi>to doe good,</hi> is re<g ref="char:EOLhyphen"/>ward enough unto it selfe, if the heart be gracious.</p>
+            <p n="3">
+               <note place="margin">III. An excellent style put upon th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ervice of the creature.</note>III. <hi>Prospect.</hi> I observe next, <hi>An excellent style</hi> put upon <hi>the service of the Creature;</hi> It is called here [the <hi>honouring</hi> of God] so the style runnes, <hi>Them that honour mee.</hi> You may take it up,
+<list>
+                  <item>1. <hi>As a character</hi> of duty.</item>
+                  <item>2. <hi>As a motive</hi> to duty.</item>
+               </list>
+            </p>
+            <p n="1">1. If you consider it as the <hi>character</hi> of duty, the Conclusion is strong; That this is the <hi>stamp</hi> which God hath set upon that <hi>obedience,</hi> which is of <hi>ac<g ref="char:EOLhyphen"/>compt</hi> with him, <hi>The Creature must honour him in the service that is done to him:</hi> A man may be <hi>abun<g ref="char:EOLhyphen"/>dant in service,</hi> and yet not <hi>honour</hi> God at all: A strict observer of the whole Law in the <hi>letter</hi> of obedience, and yet God may plead with such a man, as hee did with those Priests in <hi>Malachy, Where's mine Honour?</hi>
+               <note place="margin">
+                  <hi>Malach.</hi> 1.6.</note>
+            </p>
+            <p>It is not <hi>the doing</hi> of those things that are com<g ref="char:EOLhyphen"/>manded us, but the doing of every thing comman<g ref="char:EOLhyphen"/>ded <hi>as</hi> the Lord our God hath commanded us, which is the right <hi>Key</hi> of obedience;<note place="margin">
+                  <hi>Deut.</hi> 6 25.</note>
+               <hi>It shall be our Righteousnesse, if we observe to do all these Comman<g ref="char:EOLhyphen"/>dements before the Lord our God, as he hath comman<g ref="char:EOLhyphen"/>ded us.</hi> And, unlesse I can reach that key, <hi>I may bestow all my Goods upon the poore,</hi> and I <hi>may give my body to be burned.</hi> And if any thing can be said <hi>higher,</hi> you may say on, and yet when all is done, <hi>God is not honoured in all,</hi> and therefore <hi>All will
+<pb n="17" facs="tcp:113404:11"/> profit mee nothing.</hi> It is not the <hi>[opus operatum]</hi> the worke done, that can redound with honour up<g ref="char:EOLhyphen"/>on God, but the <hi>manner</hi> of performing what is done, is that, which payes in the tribute of honour that is due to God in duty; When I doe all, that I do, <hi>as unto God,</hi> then God is <hi>honoured</hi> in what I do.</p>
+            <p>When my <hi>principles</hi> and <hi>motives,</hi> and <hi>ends</hi> are right [if I <hi>fast,</hi> I <hi>fast unto God,</hi> or if I <hi>reguard a day</hi> I <hi>reguard it unto the Lord;</hi> Or if I <hi>keepe a passeover,</hi> I prepare my selfe to <hi>seeke the Lord in that Ordi<g ref="char:EOLhyphen"/>nance,</hi> this is indeed to <hi>honour</hi> God in all I doe.</p>
+            <p>The very same worke, and service may lye <hi>on divers hands,</hi> and yet God may be <hi>honoured in the one,</hi> and <hi>not</hi> in the other; Nay one man may be <hi>more in the service,</hi> and yet <hi>lesse in the honour,</hi> that redounds unto God by such a service, then another man, that <hi>does less.</hi> The poore <hi>Mite,</hi> that was cast in<g ref="char:EOLhyphen"/>to the treasury, <hi>honoured</hi> God more then the <hi>Talent.</hi>
+            </p>
+            <p>And though <hi>Jehu</hi> was as <hi>furious</hi> to cut of the whole race of <hi>Ahab,</hi>
+               <note place="margin">
+                  <p>Est qui confite<g ref="char:EOLhyphen"/>tur Deo, quia potens est; est, quoniam sibi bo<g ref="char:EOLhyphen"/>nus est; est, quia simpliciter bonus est, primus servus est, &amp; Timet; Secun<g ref="char:EOLhyphen"/>dus mercenari<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, et cupit sibi; Tertius filius est, &amp; diligit pa<g ref="char:EOLhyphen"/>trem.</p>
+                  <p>Qui de amore non venit honor, non honor est, sed adulatio <hi>Bernard.</hi>
+                  </p>
+               </note> as the <hi>greatest zelot</hi> for Refor<g ref="char:EOLhyphen"/>mation, yet <hi>God was not in all his thoughts:</hi>
+            </p>
+            <p>Every man would pretend service to God, but one serves him, because he is <hi>great;</hi> And another because he is <hi>good to them;</hi> And another because he is good <hi>in himselfe;</hi> The first is a <hi>slave,</hi> and serves him for <hi>feare;</hi> The second is an <hi>hireling,</hi> and serves him for <hi>wages;</hi> The third is a <hi>Son,</hi> &amp; serves him for <hi>love,</hi> and <hi>this only</hi> is <hi>the man, that honours God;</hi> Then I <hi>honour God</hi> in my service when I serve God <hi>for love;</hi> Otherwise the service, which does not spring from love, is <hi>not honour</hi> but <hi>flattery,</hi> or a <hi>formall fawning.</hi>
+            </p>
+            <p>The summe of all comes to this love must first
+<pb n="18" facs="tcp:113404:12"/>
+               <hi>Crowne God,</hi> and set him on the <hi>Throne; i. e.</hi> I must doe all <hi>purely</hi> and <hi>primarily</hi> in obedience &amp; honour to his Majestie, and then <hi>Moses</hi> his <hi>recompence of re<g ref="char:EOLhyphen"/>ward [our subordinate desires of heaven and glory]</hi> may be suffered to <hi>stand</hi> at the <hi>right hand;</hi> And if you will, those <hi>terrors of the Lord</hi> (by which <hi>Paul</hi> would persuade men <hi>[our feares of Hell and the avoyding of the wrath to come]</hi> may be suffer'd to <hi>stand</hi> on the <hi>left hand;</hi> But <hi>Jehu's Crowne,</hi> that paltry Crowne, of all other ends and references [<hi>our eye to present</hi> wages <hi>and returnes in order to selfe</hi>] must lye <hi>at the footstoole; Selfe ends</hi> are so <hi>base in themselves,</hi> and <hi>dangerous</hi> in the <hi>consequence,</hi> that they must scarce have the <hi>lowest roome</hi> in order to service; The <hi>Cognizance</hi> or Badge of the <hi>faithfull fervant,</hi> is to doe all for his <hi>Masters honour,</hi> and to count himselfe then <hi>most honoured,</hi> when he can doe any thing <hi>to honour God;</hi> And therefore that's the man, that hath the <hi>[Euge bone]</hi> well done <hi>good</hi> and <hi>faithfull;</hi> Thou hast <hi>honoured me, and i'le ho<g ref="char:EOLhyphen"/>nour thee.</hi>
+            </p>
+            <p n="2">II. You may consider it, as <hi>a motive to duty,</hi> that <hi>the service,</hi> which God requires of the Creature is here called <hi>the honouring of God;</hi> [Them that <hi>ho<g ref="char:EOLhyphen"/>nour</hi> mee.]</p>
+            <p>We are wont to say [<hi>honour is a great spur to vertue.</hi>
+               <note place="margin">Laud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a{que} vir<g ref="char:EOLhyphen"/>tus cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; im<g ref="char:EOLhyphen"/>mensum gl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ria calcar habet; <hi>Ovid.</hi>
+               </note>] <hi>i. e.</hi> the <hi>honour,</hi> that follows upon <hi>graci<g ref="char:EOLhyphen"/>ous activity,</hi> is some <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade</hi> to service; But my thinks (beloved) it is the <hi>greatest obligation</hi> to duty, that can be, that <hi>the great God should accompt himselfe honoured by those that serve him:</hi> Nay I thinke, it is a great deale more, that God sayes <hi>he
+<pb n="19" facs="tcp:113404:12"/> is honoured</hi> by them that serve him, then that God says <hi>he will honour</hi> them that serve him. What <hi>Paul</hi> speakes of Christs love, it doth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is more true of the <hi>gratious esteeme</hi> which God hath of the service of the Creature, it does <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>compell</hi> and <hi>constraine</hi> the Creature to <hi>service.</hi>
+            </p>
+            <p>We are wont to <hi>calculate</hi> the <hi>greater nobility</hi> for him that <hi>gives,</hi> then for him that <hi>receives:</hi>
+               <note place="margin">Prestantius est dare quam ac<g ref="char:EOLhyphen"/>cipere.</note> I dare not say,<note n="*" place="margin">
+                  <hi>Acts.</hi> 10.35. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that the Creature <hi>can give</hi> any thing to God, but what hath bin <hi>received</hi> first from him; But yet this I must say, that God is pleased to put that <hi>nobility upon service,</hi> as to take that <hi>as a gift of honour</hi> from the Creature, which God <hi>strengthens</hi> the Creature to <hi>performe.</hi> The Question will be, whether <hi>Mordecai</hi> or <hi>Mordecai</hi> was the <hi>better man? Mordecai</hi> in the <hi>service</hi> that he did the <hi>King,</hi> or <hi>Mordecai</hi> in the <hi>honour,</hi> that the King did <hi>him?</hi> Doe but consult that well, and you will not be long out <hi>of service.</hi>
+            </p>
+            <p>God hath but two Cords to <hi>draw</hi> you; And either of them are <hi>strong enough</hi> to prevaile with you, to <hi>List your selves</hi> under <hi>his service.</hi> If you will doe nothing <hi>upon the promise,</hi> that <hi>God will honour you,</hi> Yet doe something, because God says, <hi>you wil honour him.</hi> Beleive it, it is the service of <hi>Angells</hi> to honour God; And what would you be <hi>imploy<g ref="char:EOLhyphen"/>ed</hi> in, if you <hi>refuse</hi> the worke of Angells? Nay it is your <hi>service in Heaven</hi> to honour God, and how will you <hi>endure</hi> Heaven for Eternity, if you are <hi>loath to begin</hi> your Heaven here. He beg no more, Bee but as <hi>heartily contented</hi> to have <hi>as good thoughts</hi> of the service, which you may doe to
+<pb n="20" facs="tcp:113404:13"/> God, as <hi>God is willing to have of your service,</hi> and you will not be out of the <hi>List</hi> long. God says <hi>you will honour him;</hi> And I can not but <hi>judge,</hi> that your hearts are ready to <hi>eccho</hi> to it. <hi>I would honour him.</hi> And truly if you will not <hi>serve</hi> the great God upon these <hi>tearmes,</hi> that he says, you'l <hi>honour him,</hi> I must give you over for <hi>Malignants</hi> against God, as those who have <hi>no mind</hi> to honour him.</p>
+            <p n="4">
+               <note place="margin">IV. An excellent proport<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, betweene the se vice requi<g ref="char:EOLhyphen"/>red and the reward pro<g ref="char:EOLhyphen"/>mi ed.</note>IV. <hi>Prospect.</hi> I observe here, <hi>an excellent propor<g ref="char:EOLhyphen"/>tioin</hi> betwixt the <hi>service of the Creature,</hi> and <hi>Gods reward;</hi> Here is <hi>honour</hi> for <hi>honour;</hi> And here is <hi>contempt</hi> for <hi>contempt;</hi> [Them, that <hi>honour</hi> mee, will I <hi>honour,</hi> and them that <hi>dispise mee,</hi> shall be <hi>lightly esteemed.</hi>]</p>
+            <p>
+               <note place="margin">
+                  <hi>Exod.</hi> 21.24, &amp;c.</note>God Commands it as <hi>a law to Magistrates,</hi> [that there should be an <hi>eye</hi> for an <hi>eye,</hi> and a <hi>tooth</hi> for a <hi>tooth; Burning</hi> for <hi>burning,</hi> and <hi>wound</hi> for <hi>wound,</hi> and <hi>stripe</hi> for <hi>stripe,</hi> and <hi>life</hi> for <hi>life:</hi>] And if God impose this upon Magistrates, it is because it is Gods <hi>law of parity</hi> in his owne Court.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 2. Rev. 22,</note> The <hi>rule</hi> of Gods <hi>rendrings</hi> to the Creature, is <hi>according</hi> to our workes, and <hi>as</hi> every mans worke is. And God keepes <hi>a double proportion</hi> according unto this rule.</p>
+            <p n="1">1. A <hi>proportion</hi> [in respect of <hi>kind</hi> and <hi>quality</hi>] if the worke be good, and God be <hi>honour'd,</hi> here's <hi>honour</hi> for <hi>honour:</hi> If the worke be <hi>evill,</hi> and God be <hi>despised,</hi> here's <hi>contempt</hi> for <hi>contempt;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Whether it be <hi>good</hi> (says the Apostle) or whether it be <hi>bad,</hi> every man shall receive <hi>according</hi> to what he hath done, 2. <hi>Cor.</hi> 5.10. The <hi>evill of sin</hi> shall have the <hi>evill
+<pb n="21" facs="tcp:113404:13"/> of punishment,</hi> and <hi>the good of obedience</hi> shall have <hi>the good of reward;</hi> God must be <hi>like himselfe</hi> [to <hi>hate</hi> and <hi>love,</hi>] to <hi>hate that</hi> which is against his <hi>Essence,</hi> and to <hi>love that</hi> which is <hi>according</hi> to his <hi>nature.</hi> And after <hi>this proportion,</hi> and from <hi>these principles</hi> God gives our to every man [<hi>Thunderbolts</hi> of dis<g ref="char:EOLhyphen"/>pleasure upon them that <hi>hate</hi> him,<note place="margin">
+                  <hi>Exod.</hi> 20.5 6.</note> and <hi>showers</hi> of <hi>love,</hi> upon them that <hi>love</hi> him.]</p>
+            <p>There are some that <hi>follow</hi> the Lord <hi>fully,</hi> and there are others that doe not <hi>fulfill</hi> after him; And <hi>according</hi> to this, the Scripture speakes of<note place="margin">2 Epist. <hi>Iohn</hi> 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>a full reward,</hi> and of an <hi>halfe reward.</hi>
+            </p>
+            <p>God is not such <hi>a niggard</hi> of his <hi>bounty,</hi> but hee will <hi>reward every man</hi> that does him <hi>service,</hi> and yet God is not so <hi>prodigall</hi> of his <hi>bounty,</hi> but that he will keep to his <hi>owne proportion</hi> still [to reward eve<g ref="char:EOLhyphen"/>ry man <hi>in kind] according to the service</hi> that is done to him.</p>
+            <p>
+               <hi>Common Graces</hi> shall have but <hi>common favours,</hi> and <hi>temporary obedience,</hi> but <hi>a temporall reward.</hi> Christ speakes it<note place="margin">
+                  <hi>Math</hi> 6.2.5 16. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2. <hi>Cor.</hi> 5 10.</note> more then once <hi>of them</hi> whom he brands <hi>for Hypocrites, that they have their re<g ref="char:EOLhyphen"/>ward:</hi> It is <hi>Gods bounty,</hi> that an <hi>Hypocrite hath</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] a <hi>Reward,</hi> but it is the <hi>proportion</hi> that God keepes in his <hi>bounty,</hi> that an <hi>Hypocrite</hi> hath but [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] an <hi>Hypocrites reward; Jehu</hi> and <hi>Ahab,</hi> and <hi>Nineveh</hi> may be <hi>Rewarded</hi> for their <hi>obedience</hi> and <hi>zeale,</hi> and <hi>repentance,</hi> and the like; And so may <hi>Aristides</hi> or <hi>Cyrus</hi> be rewarded for their <hi>Ju<g ref="char:EOLhyphen"/>stice,</hi> or <hi>Bias</hi> and <hi>Diogines</hi> for their <hi>contempt of the creature,</hi> or <hi>Codrus</hi> and <hi>Regulus,</hi> for their love to their <hi>Countrie.</hi> God can <hi>as well afford it</hi> to reward
+<pb n="22" facs="tcp:113404:14"/> an <hi>Heathen</hi> with <hi>outward blessings</hi> for his <hi>morall ho<g ref="char:EOLhyphen"/>nesty,</hi> as to reward a Christian for his <hi>temporary</hi> and <hi>hypocriticall</hi> services.</p>
+            <p>There is <hi>no man</hi> (I suppose) who calls himselfe <hi>Christian,</hi> that would bee contented to goe away with <hi>an Heathens reward,</hi> or an <hi>Hypocrites reward;</hi> And therefore our <hi>service</hi> must be of an <hi>higher straine,</hi> or we can never expect <hi>better wages,</hi> because God keepes still to his <hi>[quid pro quo] Honour for honour.</hi>
+            </p>
+            <p>It is a <hi>lamentable reward,</hi> when God sayes con<g ref="char:EOLhyphen"/>cerning a man, <hi>He hath his reward, i. e.</hi> hee hath all that <hi>I owe him,</hi> and all that hee can <hi>claime of me;</hi> It is a signe that God is resolved with himselfe, <hi>To give us no more then our service comes to,</hi> and that must needs be <hi>a lamentable reward,</hi> which is <hi>proportioned to our service;</hi> It is <hi>as if</hi> God should say to the <hi>Pharisee,</hi>
+               <note n="*" place="margin">
+                  <hi>John</hi> 12 43.</note>
+               <hi>Thou shalt have the praise of men,</hi> but thou shalt never have<note n="*" place="margin">
+                  <hi>Rom.</hi> 2 29. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>that praise which is of God;</hi> Or, <hi>as if</hi> God should say to <hi>Jehu, Thou shalt have the Kingdome of Ahab</hi> for foure genera<g ref="char:EOLhyphen"/>tions,<note place="margin">1 <hi>Kong.</hi> 21.29.</note> but thou art a Reprobate and cast-away <hi>from Gods kingdome,</hi> and that for ever; or, <hi>as if</hi> God should say to <hi>Ahab, The evill shall not come in thy dayes,</hi> but, <hi>it shall come in thy sonns dayes,</hi> to ruine it in the <hi>root</hi> and <hi>branches</hi> for a finall extirpation.</p>
+            <p>
+               <hi>Such rewards</hi> are no better then the <hi>rewards of wrath,</hi> and the <hi>rewards</hi> that God <hi>gives in wrath,</hi> are the <hi>sharpest punishments. [Quailes and wrath, are a great deale worse then no Quailes.]</hi>
+            </p>
+            <p>The summe of all comes to this, <hi>God will not be baffled by the creature;</hi> Hee that serves God with
+<pb n="23" facs="tcp:113404:14"/> such <hi>Graces</hi> as are not <hi>sound</hi> and <hi>reall,</hi> God will reward him with such <hi>blessings</hi> as are not <hi>solid</hi> and <hi>substantiall.</hi> Something we would be <hi>Huckstering</hi> for God, or rather <hi>trucking</hi> for our selves, and therefore we afford him a little <hi>temporary</hi> and <hi>for<g ref="char:EOLhyphen"/>mall</hi> obedience, and that's all that the most doe for him; And something <hi>God</hi> would bee doing for such, by way of <hi>requitall [because he will not be be<g ref="char:EOLhyphen"/>holding to the creature.]</hi> They shall have some <hi>ho<g ref="char:EOLhyphen"/>nour,</hi> and some <hi>blessings,</hi> and some <hi>rewards</hi> from him, as <hi>superficiall</hi> and <hi>slight</hi> as their <hi>service</hi> is, and that's all. Gods <hi>Lex talionis</hi> is as firme as the lawes of the <hi>Meads</hi> and <hi>Persians.</hi> He that gives God the <hi>outside</hi> without <hi>inward affections,</hi> God will give him the <hi>reward</hi> without <hi>love:</hi> As we sever <hi>the heart from obedience,</hi> so God severs <hi>his love from the reward.</hi>
+            </p>
+            <p n="2">2.<note place="margin">
+                  <hi>Luk</hi> 12 47, 48. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> A <hi>proportion</hi> [in respect of <hi>measure</hi> and <hi>de<g ref="char:EOLhyphen"/>gree.</hi>] The <hi>generall rule</hi> in order to <hi>eternall</hi> rewards and punishments holds the <hi>proportion;</hi> [As our <hi>workes</hi> have been <hi>better</hi> or <hi>worse,</hi> so shall our <hi>joyes</hi> in Heaven, or our <hi>paines</hi> in Hell be <hi>more</hi> or <hi>lesse.</hi>] The Gospell speakes of <hi>many stripes,</hi> and <hi>fewer stripes,</hi> according as the servant sinnes <hi>wilfully,</hi> or sinnes <hi>ignorantly:</hi> of an <hi>hotter</hi> hell, and of an hell that is more<note n="*" place="margin">
+                  <hi>Math.</hi> 12 24. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>tollerable,</hi> according as <hi>Caepernaaum</hi> exceeds <hi>Sodome</hi> and <hi>Gomorrah</hi> in sinne. Of<note n="*" place="margin">
+                  <hi>Math.</hi> 24.51. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>a por<g ref="char:EOLhyphen"/>tion with hypocrites</hi> as the reward of great sinners, and of<note n="*" place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Cor</hi> 4.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>a weight of glory,</hi> as the reward of great sufferers. As there are <hi>many mansions</hi> in Heaven, so there are<note n="*" place="margin">John <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.2.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Quod dicit mul<g ref="char:EOLhyphen"/>las esse mansió<g ref="char:EOLhyphen"/>nes, non abud est, quám veria beatitud nis par<g ref="char:EOLhyphen"/>ticipatio. <hi>Bru<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns. in loc.</hi>
+               </note>
+               <hi>many mansions</hi> in Hell, <hi>Degrees of glory,</hi> and <hi>degrees of torment.</hi>
+            </p>
+            <pb n="24" facs="tcp:113404:15"/>
+            <p>
+               <note place="margin">Si dispar retri<g ref="char:EOLhyphen"/>butio in illâ ae<g ref="char:EOLhyphen"/>teraâ beatitudi<g ref="char:EOLhyphen"/>ne non esset una potius mansio quàm multae essent. <hi>Greg.</hi>
+               </note>This is the <hi>exactnesse</hi> of that <hi>Divine Justice</hi> which triumphs in God, that he will <hi>measure</hi> to e<g ref="char:EOLhyphen"/>very man <hi>exactly,</hi> according to the measure they mete to him; God will not only observe a propor<g ref="char:EOLhyphen"/>tion <hi>in kinde,</hi> but a due proportion in <hi>degrees</hi> too, [not only <hi>honour</hi> for <hi>honour,</hi> but the <hi>more service,</hi> the <hi>more honour.</hi>]</p>
+            <p>The greater that your <hi>toyle</hi> and <hi>tryals</hi> have been in your <hi>labour of love,</hi> the sweeter shall your <hi>rest</hi> and <hi>repose</hi> be in the<note n="*" place="margin">
+                  <hi>Luk.</hi> 16.</note>
+               <hi>bosome of Abraham;</hi> yea, the more that your <hi>zeale,</hi> and <hi>paines,</hi> and <hi>travell</hi> hath been improved for God and for his <hi>Honour,</hi> the greater shall your <hi>glory</hi> be in Heaven and your <hi>ho<g ref="char:EOLhyphen"/>nour</hi> here. Those that are <hi>Pillars</hi> to the <hi>tottering</hi> Church here, they shall be<note n="*" place="margin">
+                  <hi>Apoc.</hi> 3.12.</note>
+               <hi>Pillars</hi> in the Church <hi>triumphant</hi> hereafter; and those that <hi>establish</hi> the <hi>Throne of Christ</hi> on earth, they shall sit upon<note n="*" place="margin">
+                  <hi>Math.</hi> 19.28.</note>
+               <hi>thrones</hi> to judge his enemies. There is a <hi>right hand,</hi> and a <hi>left hand</hi> in the kingdome of Heaven; And there are some that shall <hi>shine</hi> with the <hi>brightnesse</hi> of the <hi>Sunne,</hi> while others shall <hi>but shine</hi> with the brightnesse of the <hi>firmament,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 12 3.</note> It is but <hi>working the harder</hi> while the <hi>day lasts,</hi> and when the <hi>night comes</hi> you shall have the <hi>sweeter rest,</hi> and the <hi>better wages.</hi> Hee that sowes his <hi>graine,</hi> does not only looke for the same in <hi>kinde,</hi> but for a <hi>pro<g ref="char:EOLhyphen"/>portion of encrease</hi> according to what he sowes too; <hi>If you sowe liberally, you shall reape liberally.</hi> Whe<g ref="char:EOLhyphen"/>ther you sowe <hi>passively</hi> or sowe <hi>actively,</hi> whether you be <hi>doing,</hi> or whether you bee <hi>suffering</hi> for the cause of Christ, <hi>whatsoever you sowe,</hi> that you shall <hi>reap,</hi> and as <hi>liberally</hi> as you sowe, so shall you <hi>reape</hi>
+               <pb n="25" facs="tcp:113404:15"/> also. If you be <hi>doing,</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 4.17.</note> it shall <hi>farther your recko<g ref="char:EOLhyphen"/>ing,</hi> and<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 <hi>Cor.</hi> 4 17.</note>
+               <hi>abound to your accompt</hi> in the day of Christ; And if you be <hi>suffering</hi> every <hi>dramme</hi> of sorrow and affliction, (if it be but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) it shall adde the Apostles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to your <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> the <hi>least suffering</hi> and affliction for Christ shall add <hi>more weight</hi> to your glory, to make it <hi>a farre more exceeding and eter<g ref="char:EOLhyphen"/>nall weight of glory.</hi>
+            </p>
+            <p>Wee have as yet been but (as it were) upon the <hi>hill toppe,</hi> to take a <hi>prospect</hi> of the Text at <hi>distance,</hi>
+               <note place="margin">§ 10. The text con<g ref="char:EOLhyphen"/>sider'd in a closer survey. to make way for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine proposition.</note> I shall now bring you within the <hi>borders,</hi> and give you a short <hi>survey</hi> of all. The words briefly in their <hi>propper platforme</hi> are <hi>Gods highway to honour,</hi> or the <hi>rightway</hi> to <hi>true honour,</hi> delivered in one short <hi>maxime</hi> or <hi>rule of honour</hi> by God himselfe, <hi>[Them that honour me, will I honour.]</hi>
+            </p>
+            <p>The Heathen Orator saw thus farre into <hi>nature,</hi>
+               <note place="margin">Omnes mortales honorem exop<g ref="char:EOLhyphen"/>tant, ignomini<g ref="char:EOLhyphen"/>am metuunt. <hi>Cicero. Tusc.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>A<g ref="char:EOLhyphen"/>rist. Rhet. lib. 1.</hi>
+               </note> that it left an impression upon the hearts of all to be <hi>[Honoris avidi] greedy of honour;</hi> It is a <hi>game</hi> that all flye at, and yet the <hi>honour</hi> that most seeke, is but <hi>the shadow,</hi> and not <hi>Juno;</hi> In stead of their <hi>Goddesse,</hi> they doe but<note n="*" place="margin">Ovid.</note>
+               <hi>Ixion</hi>-like catch at a <hi>cloud,</hi> and that's all.</p>
+            <p>It was pitty, that <hi>those Heathen knew not God,</hi> who made<note n="*" place="margin">Arist. Eth.</note>
+               <hi>Honour the effect of goodnesse,</hi> and layd the <hi>rule</hi> as close to <hi>virtue,</hi>
+               <note n="*" place="margin">Cicero Tusc.</note>
+               <hi>as the shadow to the bo<g ref="char:EOLhyphen"/>dy.</hi> Certainly if they had knowne the <hi>true God,</hi> they would have sought after the <hi>true honour.</hi> If the <hi>Philosopher,</hi> and the <hi>Orator,</hi> and the <hi>Poet,</hi> and the <hi>Historian,</hi> doe entaile honour upon <hi>virtue</hi> and <hi>goodnesse,</hi> I may well say that such <hi>Christian-hea<g ref="char:EOLhyphen"/>then</hi>
+               <pb n="26" facs="tcp:113404:16"/> will rise up in judgement against our <hi>Ragan Christians,</hi> who would be <hi>honourable</hi> and <hi>not</hi> good, and <hi>not</hi> virtuous.</p>
+            <p>The Egyptian <hi>Hyeroglyphick</hi> painted <hi>honour</hi> be<g ref="char:EOLhyphen"/>tween <hi>humility</hi> and <hi>labour,</hi> and therefore what a <hi>mons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of honour</hi> would that be among <hi>Christians,</hi> if the <hi>honourable</hi> should be found betweene <hi>pride</hi> and <hi>idlenesse;</hi>
+               <note place="margin">Plutarch.</note> And we read of the <hi>Romans,</hi> that they observed this order in the building of their <hi>Temples,</hi> that he that would goe to the <hi>Temple of honour,</hi> hee must passe thorow the <hi>Temple of virtue,</hi> and there<g ref="char:EOLhyphen"/>fore let it never be named among us, that there is a passage found to <hi>that Temple,</hi> thorow the Temple of <hi>Venus,</hi> and the Temple of <hi>Bacchus,</hi> or the Tem<g ref="char:EOLhyphen"/>ple of <hi>Ceres.</hi> A rise to Honour by <hi>lust</hi> and <hi>luxury,</hi> and <hi>intemperance</hi> and <hi>oppression,</hi> the only <hi>baine</hi> and <hi>choak-ball</hi> to Honour.</p>
+            <p>Every man would be upon the <hi>wing</hi> to flye after this <hi>game,</hi> but the most men they have but <hi>waxen</hi> wings that <hi>melt</hi> and <hi>faile them,</hi> when they are most upon the speed after it.<note place="margin">
+                  <hi>Ioh.</hi> 12.43. <hi>Numb.</hi> 22.17.</note> It is not <hi>men</hi> that can help the <hi>Pharisee</hi> to honour, nor is it <hi>Satan</hi> that can help <hi>Balaam</hi> to honour; Nor can <hi>Achitophel</hi> pro<g ref="char:EOLhyphen"/>mote <hi>Absalom;</hi> nor yet <hi>Babel</hi> it selfe raise the <hi>buil<g ref="char:EOLhyphen"/>der.</hi> When all's done, there is but <hi>one Temple</hi> of honour, and there is but <hi>one Gate</hi> to that Temple; <hi>i. e.</hi> But one <hi>kinde</hi> of true honour, and but one <hi>way</hi> to that honour. Our Saviour tells us, that true Honour, is the Honour which<note n="*" place="margin">
+                  <hi>Iohn</hi> 5.14</note>
+               <hi>comes from God alone;</hi> And the text tells us, that the way to that, is <hi>to honour God; For them, that honour mee, I will honour.</hi>
+            </p>
+            <pb n="27" facs="tcp:113404:16"/>
+            <p>The words are but one <hi>proposition,</hi> and so I take them up immediately.</p>
+            <p>Doct. <hi>Them that honour God, God will honour.</hi>
+               <note place="margin">§. 11. The maine Proposition in the text, which is the text it selfe.</note>
+            </p>
+            <p>The <hi>tearmes</hi> of the proposition are easie and ob<g ref="char:EOLhyphen"/>vious. Here's <hi>honour</hi> and <hi>honour, God</hi> and the <hi>Crea<g ref="char:EOLhyphen"/>ture,</hi> The Creature <hi>honouring God,</hi> and God <hi>honou<g ref="char:EOLhyphen"/>ring the Creature.</hi>
+               <note n="*" place="margin">Materialiter accipitur pro co, quod exhibetur, &amp;c.</note> The <hi>Schooles</hi> would but puz<g ref="char:EOLhyphen"/>zle the Pulpit, if I should tell you of their <hi>mate<g ref="char:EOLhyphen"/>riality</hi> and <hi>formality</hi> in the distinction of honour.<note n="*" place="margin">Formaliter pro ipsa prote<g ref="char:EOLhyphen"/>statione digni<g ref="char:EOLhyphen"/>tatis, <hi>&amp;c.</hi>
+               </note>
+            </p>
+            <p>The <hi>Hebrew Coppy</hi> hath enough in it to explaine all. The originall, that is here translated <hi>Honour,</hi> in the roote signifies [<hi>Heavy</hi> or <hi>ponderous</hi>] because that which we honour and respect,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> In <hi>Kal</hi> significat <hi>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave esse,</hi> siue &amp; ingrave scere in <hi>pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l hono<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> Quia quos honoramus non habemus viles aut leves, sed e<g ref="char:EOLhyphen"/>orum autoritatis pondus suscipi<g ref="char:EOLhyphen"/>mus. <hi>Rivets.</hi>
+               </note> wee looke upon it as a thing that hath <hi>weight</hi> and <hi>substance</hi> in it; And therefore the Apostle calls the glorious estate of the Saints in heaven <hi>[pondus gloriae]</hi> a <hi>weight of glory,</hi> 2 <hi>Cor.</hi> 4.17. It is the same word that is u<g ref="char:EOLhyphen"/>sed in the fift Commandement <hi>[Honour thy father] i. e.</hi> Thou shalt looke upon thy father, as upon a person of <hi>weight</hi> and <hi>worth,</hi> whom thou art bound highly to <hi>reverence</hi> and <hi>esteeme.</hi>
+            </p>
+            <p>And therefore, if you minde the <hi>antithesis</hi> in the text, that which is made opposite to <hi>Honour,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Parvi aut nulli<g ref="char:EOLhyphen"/>us ponderis fuit. <hi>Per metapho<g ref="char:EOLhyphen"/>ram</hi> levis, vilis fuit, <hi>In piel</hi> maledixit blas<g ref="char:EOLhyphen"/>phemavit.</note> Is call'd <hi>[despising] But them that despise me shall be lightly esteemed.</hi> The word is full of elegancie both in the <hi>Hebrew</hi> and the <hi>Septuagint,</hi> and is translated <hi>some<g ref="char:EOLhyphen"/>times</hi> to <hi>despise</hi> and <hi>contemne,</hi> or to <hi>make nothing of,</hi> and <hi>sometimes</hi> again to <hi>curse</hi> and <hi>blaspheme;</hi> So that the word <hi>properly signifies</hi> such <hi>a despising</hi> of a thing or person, as makes him ready to <hi>curse it</hi> in his heart, or such a <hi>cursing,</hi> as ariseth from the <hi>contempt</hi>
+               <pb n="28" facs="tcp:113404:17"/> and <hi>light esteeme</hi> that I have of a thing or person.<note place="margin">Septu. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. ab <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. nihili facio. Consule Iud. v. <hi>8.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> est <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> In the 20th of <hi>Lev.</hi> ver. 9. it is translated <hi>Cursing, every one that curseth his father, or his mother</hi>] and so it must needs be opposed to that Commande<g ref="char:EOLhyphen"/>ment [Thou shalt <hi>honour</hi> thy father.] In the text it is translated <hi>despising,</hi> and is opposed to the like Commandement, [thou shalt <hi>honour</hi> me,] <hi>so that</hi> if wee put all together, we have the <hi>Negative sence</hi> of the tearme clearly, to <hi>deny</hi> God <hi>his honour,</hi> or <hi>not to honour</hi> him, is to <hi>despise</hi> God, and such a <hi>de<g ref="char:EOLhyphen"/>spising of God,</hi> is a <hi>cursing</hi> of him.</p>
+            <p>
+               <note place="margin">§ 12. The maine t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arm in the Proposition o<g ref="char:EOLhyphen"/>pened, what it is <hi>To honour God.</hi>
+               </note>
+               <hi>Q.</hi> But what is it <hi>positively</hi> and clearly to <hi>ho<g ref="char:EOLhyphen"/>nour God,</hi> which is the maine tearme of the Pro<g ref="char:EOLhyphen"/>position to be opened.</p>
+            <p>
+               <hi>Ans.</hi> To honour God, is no more but <hi>to give God his owne, i. e.</hi> [the <hi>reverence</hi> of the <hi>inward,</hi> and the <hi>outward</hi> man] according to that <hi>worth</hi> and <hi>weight</hi> of excellencie that is in God.</p>
+            <p>Then I honour God <hi>in my heart.</hi>
+               <note place="margin">In my heart.</note> when the <hi>heart,</hi> and all the <hi>counsells</hi> of the heart, and the <hi>aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions</hi> of the heart, and the <hi>purposes</hi> of the heart, are <hi>set</hi> in such a just and due <hi>proportion</hi> to the <hi>name</hi> of God in all his excellencies [rightly <hi>apprehended,</hi> unfeignedly <hi>believed,</hi> feelingly <hi>considered</hi> and <hi>em<g ref="char:EOLhyphen"/>braced</hi>] that they have a <hi>propper</hi> and <hi>peculiar,</hi> and <hi>distinct effect</hi> [suitable to every one of them] upon my heart and spirit. As <hi>eg.</hi> when the <hi>goodnesse</hi> of God makes me <hi>love</hi> him, and the <hi>greatnesse</hi> of God makes me <hi>feare</hi> him, and the <hi>faithfulnesse</hi> of God makes me <hi>trust</hi> him, and <hi>depend</hi> on him; And ac<g ref="char:EOLhyphen"/>cording as these <hi>perfections</hi> of God rise the higher in my <hi>apprehensions</hi> of them, and in their <hi>impressi<g ref="char:EOLhyphen"/>ons</hi>
+               <pb n="29" facs="tcp:113404:17"/> on me, so my <hi>love</hi> and <hi>feare,</hi> and <hi>delight</hi> and <hi>trust,</hi> is proportioned in the <hi>measure</hi> and <hi>degree,</hi> then I honour God in my heart.</p>
+            <p>And so onward. Then I <hi>honour God in my life,</hi>
+               <note place="margin">In <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y life.</note> when I so manage all my actions, that they doe <hi>simply tend</hi> to the glorious <hi>manifestation</hi> of his di<g ref="char:EOLhyphen"/>vine excellencies according to the <hi>apprehension,</hi> that I have of them in my heart with an <hi>intent</hi> to ho<g ref="char:EOLhyphen"/>nour him. I adde the last clause in the description, because it is an <hi>essentiall requisite</hi> to my honouring of God, that I make it <hi>my end</hi> to honour him. <hi>Jehu</hi> honour'd God <hi>materially</hi> in the service hee did a<g ref="char:EOLhyphen"/>gainst the house of <hi>Ahab,</hi> because the <hi>worke done,</hi> tended <hi>in a kinde</hi> to Gods honour; But yet hee did not <hi>formally</hi> honour God, because <hi>Jehu's end</hi> in that service was <hi>not</hi> to honour God, but <hi>to honour himselfe: * Heart</hi> and <hi>hand,</hi> actions and <hi>ends</hi> must goe together in every service, or <hi>no honour.</hi>
+            </p>
+            <p>The point that I have in handling is the Text it selfe,<note place="margin">§. 13. The <hi>Proposition</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the text <hi>re<g ref="char:EOLhyphen"/>solved</hi> for hand<g ref="char:EOLhyphen"/>ling into one <hi>generall conclu<g ref="char:EOLhyphen"/>sion,</hi> and <hi>opened</hi> in foure di<g ref="char:EOLhyphen"/>stinct points which are a l in the text.</note> considered as <hi>one proposition [Them that ho<g ref="char:EOLhyphen"/>nour God, God will honour.]</hi> But I must <hi>resolve it</hi> for the clearer handling into this generall <hi>conclusi<g ref="char:EOLhyphen"/>on; [It is the shortest cutt to true honour, to honour God.] The strength</hi> of which generall conclusion will <hi>result</hi> out of these foure points, which are <hi>di<g ref="char:EOLhyphen"/>stinct</hi> in the text.</p>
+            <list>
+               <item>1. God is the <hi>Fountaine</hi> of all honour,<note place="margin">F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns honoris.</note>
+                  <hi>[J.]</hi>
+               </item>
+               <item>2. The <hi>topp</hi> of honour, is <hi>to be honour'd by God,</hi>
+                  <note place="margin">Culmen honoris.</note> it is <hi>[J]</hi> still.</item>
+               <item>3. <hi>All</hi> those, and <hi>only</hi> those, who honour God,<note place="margin">Subjectum ho<g ref="char:EOLhyphen"/>noris.</note> God will honour <hi>[them.]</hi>
+               </item>
+               <item>4. God is not only <hi>graciously forward,</hi>
+                  <note place="margin">Certitude ho<g ref="char:EOLhyphen"/>noris.</note> but <hi>under
+<pb n="30" facs="tcp:113404:18"/> engagements</hi> to honour them, that honour him, For, he hath said [I <hi>will</hi> doe it.]</item>
+            </list>
+            <p>Now marke how the <hi>truth</hi> of the generall con<g ref="char:EOLhyphen"/>clusion <hi>triumphs</hi> as it stands upon these foure strong <hi>pillars.</hi> If God be the <hi>Fountaine</hi> of all ho<g ref="char:EOLhyphen"/>nour; and if the <hi>toppe</hi> of honour be <hi>to be honour'd by God,</hi> and if <hi>all</hi> those, and <hi>only</hi> those, who honour God, God will honour; and if God be <hi>graciously forward,</hi> and strongly <hi>engaged</hi> to honour <hi>all</hi> them that honour him, <hi>Then</hi> it must needs follow of it selfe, that <hi>it is the shortest cutt to true honour, to honour God.</hi> I have no more to doe, but to shew you how the foure points <hi>lye</hi> in the text, and how they <hi>contribute</hi> to the <hi>opening</hi> and <hi>proving</hi> of the generall Conclusion, and I shall fasten all with the Application.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Point. </seg>I</label> 1. God is the <hi>Fountaine</hi> of all honour.</p>
+            <p>
+               <note place="margin">Fons honoris.</note>In <hi>Heraldry,</hi> the <hi>King</hi> is the <hi>fountaine</hi> of honour, but in <hi>Divinitie, God</hi> hath the <hi>absolute Prerogative</hi> to <hi>raise</hi> or <hi>ruine,</hi> and therefore when God speakes of the <hi>honour</hi> that shall be <hi>done to them,</hi> that <hi>honour God,</hi> the <hi>patent</hi> is given in his owne <hi>name, [I will honour.]</hi> A King is but <hi>[vas honoris]</hi> a <hi>vessell</hi> of ho<g ref="char:EOLhyphen"/>nour; It is God only that is <hi>[fons honoris]</hi> the <hi>foun<g ref="char:EOLhyphen"/>taine</hi> of honour; The honour that is <hi>granted</hi> to a King, is but Gods <hi>Commission,</hi> and the honour that a King <hi>grants,</hi> is but Gods <hi>permission.</hi> It is <hi>from me</hi> (sayes God) <hi>that Kings reigne,</hi> and therefore from <hi>him,</hi> that Kings <hi>bestow</hi> honours,<note n="*" place="margin">
+                  <hi>Numb.</hi> 10.12.</note> It is not <hi>Balaak</hi> that can promote <hi>Balaam,</hi> because the Lord hath kept him back from honour;<note place="margin">
+                  <hi>Ver.</hi> 13.</note> Nor is it <hi>Balaam</hi> that can <hi>curse</hi> Israel, because the Lord hath com<g ref="char:EOLhyphen"/>manded
+<pb n="31" facs="tcp:113404:18"/> him to <hi>blesse</hi> his people,<note place="margin">1 <hi>Sam.</hi> 2 7, 8.</note> [<hi>it is the Lord</hi> (sayes <hi>Hannah) that bringeth low, and lifteth up; He raiseth up the poore out of the dust, and lifteth up the beggar from the dunghill, to set them among Princes, and to make them inherit the seat of glory.</hi>] A man may travell <hi>East</hi> and <hi>West</hi> to arrive at Ho<g ref="char:EOLhyphen"/>nour, and <hi>digge</hi> in every <hi>field</hi> we come at, to finde out this <hi>treasure,;</hi> But the text tells us,<note n="*" place="margin">
+                  <hi>Psal.</hi> 75 6, 7.</note>
+               <hi>Promoti<g ref="char:EOLhyphen"/>on comes neither from the East, nor from the West,</hi> (nor yet springs out of the dust,) <hi>But it is God that putteth downe one, and setteth up another.</hi>
+               <note n="*" place="margin">1 <hi>Chro</hi> 29.11, 12.</note>
+               <hi>His</hi> is <hi>greatness</hi> and <hi>power</hi> and <hi>glory,</hi> and both <hi>riches</hi> and <hi>honour come of him.</hi>
+            </p>
+            <p>I have but one word to <hi>interline</hi> for <hi>your Honours,</hi> you are as<note n="*" place="margin">
+                  <hi>Gen.</hi> 47. <hi>v.</hi> 3.</note>
+               <hi>Ruben</hi> among the Tribes, the <hi>first-born</hi> that excell in Honours; And therefore <hi>looke to the Fountaine,</hi> and remember the <hi>roote</hi> from whence all your Honours spring. I beseech your Honours, let it never be heard, that<note n="*" place="margin">
+                  <hi>Dan.</hi> 4 30.</note>
+               <hi>Nebuchadnezar boasts in the pride of his greatnesse,</hi> [Is not this <hi>Babylon</hi> that I have built for the <hi>might</hi> of my power, and for the <hi>honour</hi> of my Majestie.<note place="margin">
+                  <hi>Ezra</hi> 1 2.</note>] When <hi>Cyrus</hi> the <hi>Heathen</hi> will confesse it to the Lord God of heaven, that <hi>hee</hi> gave him his <hi>kingdomes,</hi> and his <hi>honour.</hi> My Lords,<note place="margin">Verbum sapien<g ref="char:EOLhyphen"/>ti.</note> one word is enough to your Honours, you can never have a <hi>firme possession,</hi> till you hold your, <hi>Honours</hi> in this <hi>title,</hi> that <hi>God bestowes them,</hi> and untill you give a <hi>Pepper corne</hi> of honour unto God againe, as the <hi>Lord</hi> and <hi>Fountaine</hi> of all ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p n="2">2. The <hi>toppe</hi> of Honour is <hi>to be honour'd of God,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Point. </seg>II</label> I find this in the text too. For,<note place="margin">Culmen hono<g ref="char:EOLhyphen"/>ris.</note> when God speaks of
+<pb n="32" facs="tcp:113404:19"/> the honour that shall be done to them that honour him, as if God could <hi>say no higher,</hi> he sayes no more, <hi>but I will honour.</hi>
+            </p>
+            <p>As God is <hi>[Fons honoris]</hi> the <hi>fountaine</hi> and <hi>spring</hi> of all <hi>honour;</hi> So the <hi>honour</hi> that God be<g ref="char:EOLhyphen"/>stowes upon the Creature, must needs be <hi>[Culmen honoris]</hi> the <hi>toppe</hi> of honour.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Damasc.</note>
+               <hi>Our God is above all Gods,</hi> and <hi>his power is above all power,</hi> and therefore <hi>his honour</hi> is an <hi>honour above</hi> all honour; That which our Saviour calls,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Cyril.</note>
+               <hi>The honours which comes from God alone,</hi>
+               <note n="*" place="margin">
+                  <hi>Ioh.</hi> 5 44. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is the true honour, and none else; And as for all other honour [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] it is <hi>nothing worth,</hi> Joh. 8.54.</p>
+            <p>The most men they runne to the <hi>hills,</hi> and to the <hi>mountaines</hi> for honour, but <hi>the hope of the hills is vaine,</hi> Jer. 31.3. All the honour that comes from the <hi>creature,</hi> is but <hi>like the creature</hi> [<note n="*" place="margin">Ventus fumus umbra, nihil est.</note>
+               <hi>a breath of honour.</hi>] But now the honour which comes from God, it is like God, a <hi>stemme</hi> that is as <hi>noble</hi> as the <hi>roote,</hi> and a <hi>streame</hi> that is as <hi>lasting</hi> as the <hi>spring.</hi>
+            </p>
+            <p>I read of <hi>three Kings</hi> in Scripture, that made an <hi>extract</hi> and <hi>elixar</hi> of all their <hi>Royalty,</hi> to honour the men whom they had a mind to honour, <hi>Pharoah</hi> is for <hi>Joseph,</hi> and <hi>Ahasuerus</hi> for <hi>Mordicai,</hi> and <hi>Bel<g ref="char:EOLhyphen"/>shazzar</hi> for the man that <hi>could reade the writing.</hi>
+               <note n="*" place="margin">
+                  <hi>Gen.</hi> 41.43. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Bow the knee, or tender fa<g ref="char:EOLhyphen"/>ther, or the fa<g ref="char:EOLhyphen"/>ther of a King, <hi>Vid. A Lapid. in loc. Item. An<g ref="char:EOLhyphen"/>not in bibl. fol.</hi>
+               </note> And what thinke you, did <hi>all the honour</hi> of these great Kings <hi>amount too?</hi> But <hi>a ring</hi> for the <hi>hand,</hi> or a <hi>chaine</hi> for the <hi>neck,</hi> or a <hi>Crowne</hi> for the <hi>head,</hi> or a <hi>garment</hi> of fine linnen for the <hi>back,</hi> or a <hi>Procla<g ref="char:EOLhyphen"/>mation</hi> before them. [<note n="*" place="margin">
+                  <hi>Hest</hi> 6.9, 11.</note>
+               <hi>Abrech Abrech.</hi>] This is <hi>the father of a King,</hi> or this is <hi>the man whom the King will honour;</hi>
+               <note n="*" place="margin">
+                  <hi>Dan</hi> 5 7.</note> or this is <hi>the third Ruler in the
+<pb n="33" facs="tcp:113404:19"/> kingdome.</hi> The Crown <hi>Royall,</hi> and the Chain <hi>Royall,</hi> and the Ring <hi>royall,</hi> and the Chariot <hi>royall,</hi> and the Horse <hi>royall,</hi> and the Servant <hi>royall,</hi> or one of the <hi>Princes</hi> to proclaime his honour, and that's all.</p>
+            <p>Ah <hi>my Lords,</hi> and <hi>deare Christians,</hi> what a poore thing is it to be honoured by the <hi>Gods of earth,</hi> in comparison of the honour that shall bee done to him, whom the <hi>God of Gods</hi> delights to honour!</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Iames</hi> 2 23.</note>
+               <hi>Abraham my friend,</hi> and<note n="*" place="margin">
+                  <hi>Numb.</hi> 14.24.</note>
+               <hi>Caleb my servant,</hi> that fulfilled after me; and<note n="*" place="margin">
+                  <hi>Ephes.</hi> 3.1.</note>
+               <hi>Paul my prisoner,</hi> and<note n="*" place="margin">
+                  <hi>Acts</hi> 13.22:</note>
+               <hi>David</hi> the man <hi>after mine owne heart,</hi> is <hi>more then all.</hi>
+            </p>
+            <p>And yet, if you will have the Kings <hi>Ring,</hi> you shall have it as heartily as the poore <hi>Prodigall</hi> had it from his Father [<note n="*" place="margin">Annuli usus est <hi>signare,</hi> non male ergò re<g ref="char:EOLhyphen"/>spondet annulo <hi>donum spiri<g ref="char:EOLhyphen"/>tus,</hi> qui nos <hi>ob<g ref="char:EOLhyphen"/>signat. Grotius.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>2</hi> Cor. <hi>1.21.</hi>
+               </note>
+               <hi>The seale and testimony of your fathers love.</hi>] And, if you would have the Kings <hi>Robe,</hi> you shall have the * <hi>garment of righ<g ref="char:EOLhyphen"/>teousnesse,</hi> not to cover your <hi>body</hi> with <hi>honour,</hi> but your <hi>persons</hi> with <hi>acceptance;</hi> And, if you would have the Kings <hi>chaine,</hi> you shall have the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Apoc.</hi> 19.8.</note>
+               <hi>chaine of grace,</hi> and<note n="*" place="margin">Vid. Answ.</note> the <hi>chaine of salvation;</hi> And, if you would have the Kings <hi>Crowne,</hi> you shall have an<note n="*" place="margin">
+                  <hi>Can.</hi> 1.10.5.9</note>
+               <hi>immortall</hi> and<note n="*" place="margin">
+                  <hi>Rom</hi> 8 30. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 <hi>Pet.</hi> 5.4</note>
+               <hi>incorruptible</hi> Crowne of glory; Nay, you shall be<note n="*" place="margin">
+                  <hi>Rev</hi> 1 6.</note>
+               <hi>Kings</hi> and <hi>Priests</hi> unto God for ever.<note n="*" place="margin">1 <hi>Pet.</hi> 2 9.</note> A <hi>chosen generation,</hi> a <hi>royall Priesthood,</hi> a <hi>peculiar people;</hi>
+               <note n="*" place="margin">2 <hi>Cor.</hi> 6.18.</note> My very <hi>sonnes</hi> and <hi>daughters,</hi> saith the Lord Almighty. * <hi>This,</hi> yea <hi>this</hi> is the <hi>honour</hi> which shall be done to him, whom God <hi>delights</hi> to honour,<note n="*" place="margin">
+                  <hi>Psal.</hi> 149.9.</note>
+               <hi>And such honour have all his Saints.</hi>
+            </p>
+            <p n="3">III. <hi>All</hi> those, and <hi>only</hi> those that honour God <label type="milestone">
+                  <seg type="milestoneunit">Point. </seg>III</label> shall be <hi>honoured by him;</hi>
+               <note place="margin">Subjectum Honoris.</note> And this takes in the
+<pb n="34" facs="tcp:113404:20"/>
+               <hi>condition</hi> of the text, and determines the <hi>subject</hi> upon whom God will bestow honour. [<note n="*" place="margin">Honorantes me, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>remelius</hi>
+               </note>
+               <hi>Them,</hi> that honour mee.]</p>
+            <p>
+               <hi>Them, i, e. [All them;]</hi> and again, <hi>Them, i. e.</hi>
+               <note n="*" place="margin">Quicun{que} <hi>Hono<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ficaverit,</hi> Steph. Vata<g ref="char:EOLhyphen"/>blus.</note>
+               <hi>[on<g ref="char:EOLhyphen"/>ly them]</hi> that honour God, shall bee honoured by him; The <hi>one</hi> takes in the <hi>valleys,</hi> the basest and mea<g ref="char:EOLhyphen"/>nest, if they honour God; and The other shutts out the <hi>mountaines,</hi> the greatest and the highest, if they doe not honour him.<note n="*" place="margin">Tantùm <hi>glorificantes.</hi> Septuag <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> It is as antient, as the anti<g ref="char:EOLhyphen"/>ent of dayes, that God is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>respe<g ref="char:EOLhyphen"/>cter of persons;</hi> It is not <hi>Dives</hi> at the table, but <hi>La<g ref="char:EOLhyphen"/>zarus</hi> at the gate, that God honours, and by that one Parable you may easily guesse what might be sayd on upon this point: The <hi>course of honour</hi> (tho<g ref="char:EOLhyphen"/>rowout the Scripture) keepes touch with this <hi>Rule</hi> and Line of honour; God takes some from the<note n="*" place="margin">
+                  <hi>Iudg.</hi> 6.11.</note>
+               <hi>threshing floore,</hi> and some from<note n="*" place="margin">
+                  <hi>Ps</hi> 78 70.</note> the <hi>sheep-fold,</hi> &amp; some from the<note n="*" place="margin">
+                  <hi>Iob</hi> 42.12.</note>
+               <hi>dunghill, to fit with Princes,</hi> yea, <hi>to be Princes among the people.</hi> [He raiseth up the <hi>poore</hi> out of the <hi>dust,</hi> and <hi>lifteth up</hi> the <hi>needie</hi> out of the <hi>dunghill,</hi> (when they honour God) that he may set them with Princes, <hi>Psa.</hi> 113.7, 8. And on the other hand,<note place="margin">
+                  <hi>Dan</hi> 4.33.</note> God <hi>throwes downe</hi> others from their <hi>Principalities</hi> and <hi>Dominions,</hi> and great <hi>dignities,</hi> and turnes them out to <hi>graze with Oxen,</hi> because they have not honoured him.</p>
+            <p>God must have the <hi>condition,</hi> though he does not stand <hi>in need of your honour,</hi> or he will not <hi>honour</hi> you; And <hi>woe</hi> be to that man (though all the world honour him) whom God <hi>denyes</hi> to honour: I need not add words to aggravate the case of that man: <hi>[He loseth more then honour, whom God denyes to
+<pb n="35" facs="tcp:113404:20"/> honour.]</hi> But, if you be in the <hi>subject</hi> of the pro<g ref="char:EOLhyphen"/>position (among <hi>them</hi> that honour God) you are sure of your share in the <hi>predicate, God will honour you,</hi> because it is <hi>a proposition of eternall truth. [Those that honour me, will I honour,]</hi> and this brings us into the fourth point.</p>
+            <p n="4">IV. God is <hi>graciously forward,</hi> and under <hi>strong <label type="milestone">
+                     <seg type="milestoneunit">Point. </seg>IV</label> engagements</hi> to honour those that honour him.<note n="*" place="margin">Certitud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ho<g ref="char:EOLhyphen"/>noris.</note> This <hi>[I will]</hi> shewes the <hi>freeness</hi> of Gods heart, to honour all those that honour him; and this <hi>[I will]</hi> shewes the <hi>certaintie</hi> of that honour which shall be done to them that honour God; It is Gods <hi>pro<g ref="char:EOLhyphen"/>mise,</hi> and therefore <hi>free;</hi> It is Gods <hi>principle,</hi> and therefore <hi>certaine.</hi>
+            </p>
+            <p>It is a notable observation, that would not bee lost; If we compare the first member of the Text with the latter, you may find an <hi>excellent varietie</hi> in Gods <hi>manner</hi> of speaking. When God speakes of the <hi>contempt,</hi> that shall be rendred to those, that <hi>contemne</hi> God, God speakes it in the person of o<g ref="char:EOLhyphen"/>thers <hi>[They shall be contemned.]</hi> But when hee speakes of the <hi>honour</hi> that shall bee done to them, that <hi>honour</hi> him, God grants out the patent in his <hi>owne name [J</hi> will honour.]<note n="*" place="margin">In priori membr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> loquitur Deus de se a<g ref="char:EOLhyphen"/>ctivè [glorifi<g ref="char:EOLhyphen"/>cab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eum] tan<g ref="char:EOLhyphen"/>quam de propri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gloriae largitore; In posteri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri non item. <hi>Francisc. de Mendoc.</hi>
+               </note> God is <hi>swift</hi> and <hi>free,</hi> and <hi>forward</hi> to reward, and to bestow honour upon them that honour him, and therefore<note n="*" place="margin">Operatur glo<g ref="char:EOLhyphen"/>riam paenam relinquit <hi>Am<g ref="char:EOLhyphen"/>bros.</hi>
+               </note>
+               <hi>owns</hi> that to <hi>himselfe,</hi> but very <hi>loath</hi> and <hi>slow</hi> to punish, or to returne contempt with contempt, and therefore <hi>leaves</hi> that to <hi>others.</hi>
+            </p>
+            <p>Though God be (in a safe sence)<note n="*" place="margin">Quamvis u<g ref="char:EOLhyphen"/>tra{que} facultas tam punic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di, quam bene faci<g ref="char:EOLhyphen"/>endi sit a Deo ta<g ref="char:EOLhyphen"/>men hanc, non illam sibi at<g ref="char:EOLhyphen"/>tribuit quasi de unâ potiús quàm de aliā glorietur.</note> the <hi>Author</hi> of both, yet God <hi>attributes</hi> the one <hi>rather</hi> to him<g ref="char:EOLhyphen"/>selfe, then the other, because he <hi>glories in Grace above Justice.</hi>
+            </p>
+            <pb n="36" facs="tcp:113404:21"/>
+            <p>He that knowes <hi>any thing</hi> of God, can not but know <hi>this</hi> of him, that it is against his divine Na<g ref="char:EOLhyphen"/>ture, that God should bee <hi>behind hand</hi> with the creature for any service of honour, that hath heen done unto his great Name. If the <hi>King of Persia</hi> cannot read his princely <hi>Annals,</hi> but as hee finds a <hi>piece of service</hi> recorded, demands presently, <hi>What honour and dignity hath bin done for this,</hi>
+               <note place="margin">
+                  <hi>Hest.</hi> 6.1, 2, 3.</note> Can it ever enter into the thoughts of the creature, that the <hi>King of Kings</hi> [who hath <hi>his booke of remembrance written before him,</hi>
+               <note place="margin">
+                  <hi>Mala<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h.</hi> 3.16.</note> for them that <hi>feare</hi> him, and that <hi>thinke upon his Name,</hi>] should ever <hi>forget</hi> to honour them, that honour him? God may as well <hi>forget himselfe,</hi> or his <hi>owne</hi> honour, as forget to honour them that honour him.</p>
+            <p>The great God, whom you serve, is a <hi>bountifull God,</hi> and therefore <hi>a plentifull rewarder of those that seeke him;</hi> Yea, he is<note n="*" place="margin">
+                  <hi>Luke</hi> 6.35.</note>
+               <hi>kind to the unkind, and to the evill,</hi> and therefore much more to <hi>his owne children,.</hi> Yea,<note n="*" place="margin">
+                  <hi>Math.</hi> 10.42.</note> he will reward a <hi>cupp of cold wa<g ref="char:EOLhyphen"/>ter,</hi> and therefore much more your <hi>Honours</hi> and, <hi>e<g ref="char:EOLhyphen"/>states</hi> and <hi>lives,</hi> and <hi>liberties layd out</hi> for him, or <hi>denyed</hi> for him, and for his great Name; Yea, hee will reward them that are but <hi>[bruta instrumenta]</hi> But <hi>brute instruments</hi> of his will and providence, such as are imployed <hi>secretly</hi> by him for the bring<g ref="char:EOLhyphen"/>ing about of his owne purposes and decrees, and have <hi>no respect</hi> at all to God in what they doe, but to their <hi>owne ends,</hi> and their <hi>owne lusts,</hi> and yet <hi>such</hi> shall not goe without their reward. <hi>Jehu</hi> shall have the <hi>Kingdome</hi> for destroying <hi>Ahab,</hi> and the whole Land of <hi>Egypt</hi> is given to <hi>Nebucadnezzar</hi>
+               <pb n="37" facs="tcp:113404:21"/> King of <hi>Babylon. [As the wages for his army,]</hi> and for his <hi>labour</hi> wherewith he serv'd against <hi>Tyrus, be<g ref="char:EOLhyphen"/>cause they wrought for mee,</hi> saith the Lord God, <hi>Ezek.</hi> 29.18.19, <hi>&amp;c. Jehu,</hi> and <hi>Nebucadnezar</hi> weare but <hi>brute instruments</hi> to worke Gods purpo<g ref="char:EOLhyphen"/>ses and decrees against <hi>Tyrus,</hi> and against <hi>Ahab,</hi> and yet God rewards the <hi>instrument</hi> though there was no <hi>intention</hi> in the agent to serve God. And there<g ref="char:EOLhyphen"/>fore how much more will God reward them with <hi>full measure, heap't on, prest downe,</hi> and <hi>running o<g ref="char:EOLhyphen"/>ver,</hi> that <hi>offer themselves willingly</hi> to the worke of the Lord?</p>
+            <p>Again. The God, whom you serve is the <hi>God of Justice,</hi> and therefore he can not be <hi>unrighteous,</hi> that he should <hi>forget</hi> your <hi>worke</hi> and <hi>labour of love</hi> for his great Name: <hi>Heb.</hi> 6.10.<note place="margin">
+                  <hi>Heb.</hi> 6.10.</note> God may as well <hi>cease to be,</hi> as <hi>cease</hi> to be <hi>just,</hi> and therefore if God be <hi>just</hi> he must returne <hi>honour</hi> for <hi>honour.</hi> Gods <hi>ho<g ref="char:EOLhyphen"/>nour</hi> is <hi>dearer</hi> to <hi>himselfe,</hi> then your honours can be to <hi>you;</hi> And therefore be confident, he will not <hi>loose his owne honour</hi> [The <hi>honour of his Justice</hi>] in suffering <hi>you</hi> to <hi>goe without</hi> that <hi>honour,</hi> which his <hi>zeale</hi> shall performe to them, that honour him; even the <hi>zeale,</hi> that he <hi>beares</hi> to his owne <hi>Name.</hi>
+            </p>
+            <p>And yet again; That <hi>noble Lord,</hi> whom you serve is <hi>free</hi> and <hi>faithfull;</hi> According to the tener of his <hi>goodnesse.</hi> * He is become a <hi>voluntary debitor</hi> to every servant in a <hi>debt</hi> of honour, for a <hi>loane</hi> of honour. And according to the tenor of his <hi>faith<g ref="char:EOLhyphen"/>fulnesse</hi> in making himselfe by <hi>promise</hi> a <hi>debitor,</hi> he must undoubtedly <hi>performe</hi> what he hath promi<g ref="char:EOLhyphen"/>sed; Though there be no <hi>worthines</hi> in the service,
+<pb n="38" facs="tcp:113404:22"/> that you can doe, yet for the <hi>promise,</hi> which <hi>God himselfe</hi> hath <hi>made</hi> he must honour them, that ho<g ref="char:EOLhyphen"/>nour him.</p>
+            <p>Doe but read over the records of <hi>Abraham,</hi> and <hi>Ioseph,</hi> and <hi>Moses,</hi> and <hi>Samuel,</hi> and <hi>Daniel,</hi> and the <hi>three children,</hi> and tell me whether they <hi>found</hi> not according to this <hi>rule</hi> of <hi>honour [honour</hi> for <hi>honour] honour</hi> in the <hi>prison</hi> as well as the <hi>pallace,</hi> in the <hi>denn</hi> and <hi>dungeon</hi> as well as the <hi>Kingdome;</hi> among <hi>friends,</hi> among <hi>neighbours,</hi> among <hi>enemyes, finding favour both with God and man.</hi>
+            </p>
+            <p>
+               <hi>You thinke</hi> the <hi>publike faith</hi> is good security; and <hi>I thinke</hi> the <hi>faith of Heaven</hi> is better then all the security in the world; And <hi>that</hi> you have, as <hi>strong</hi> as the <hi>promise</hi> of God can make it, for, he hath say'd it, nay he hath <hi>sworne it,</hi> so<note place="margin">Vivo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go dicit Dominus, <hi>&amp;c. Franscisc</hi> de <hi>Mendoc.</hi> in loc.</note> some interpre<g ref="char:EOLhyphen"/>ters add [<hi>them that honour me,</hi> I <hi>will honour.</hi>]</p>
+            <p>
+               <note place="margin">§. 14. An objection that seemes to <hi>strangle</hi> the poynt, im<g ref="char:EOLhyphen"/>prov'd to strengthen it.</note>
+               <hi>Object.</hi> There is but one easye <hi>exception,</hi> that seemes to crosse this <hi>generall rule;</hi> But it will add a farther <hi>varnish</hi> to the poynt, or I would not name it: It may happily <hi>struggle</hi> in the thoughts of some, how can this be Gods <hi>principle,</hi> and <hi>promise,</hi> and <hi>rule</hi> of honour <hi>[to honour them, that honour him]</hi> when we find by dayly experience, that [<note n="*" place="margin">
+                  <hi>Ps.</hi> 12.8.</note>
+               <hi>the vi<g ref="char:EOLhyphen"/>lest men are exalted;</hi> and those, that <hi>honour God most</hi> are <hi>mostly despised?</hi>] If any be made<note n="*" place="margin">
+                  <hi>Ps.</hi> 69.12.</note>
+               <hi>the Song of the drunkards</hi> it is such as <hi>David;</hi> or if there be a<g ref="char:EOLhyphen"/>ny that are made<note n="*" place="margin">1 <hi>Cor.</hi> 4.9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>ver.</hi> 9.</note>
+               <hi>a Theature</hi> unto the <hi>world,</hi> and to <hi>Angels</hi> and <hi>men</hi> it is such as <hi>Paul;</hi> If any be<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>ver.</hi> 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>re<g ref="char:EOLhyphen"/>viled,</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>persecuted,</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>defamed,</hi> and made as the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ver.</hi> 13.</note>
+               <hi>filth of the world</hi> and the * <hi>of sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wring of all things,</hi> It is such as <hi>Paul</hi> too; And can all this be <hi>Honour</hi> for <hi>Honour?</hi>
+            </p>
+            <pb n="39" facs="tcp:113404:22"/>
+            <p>
+               <hi>Resp.</hi> There is nothing that <hi>setts off</hi> the point more then this Objection. 1. As we say of some <hi>[their Glory is their shame]</hi> so of these <hi>[their shame, is their glory.] Jt is a blessed thing to be despised for God.</hi> Blessed are yee (says Christ) when men shall <hi>re<g ref="char:EOLhyphen"/>vile</hi> you, and <hi>persecute</hi> you, and <hi>say all maner of e<g ref="char:EOLhyphen"/>vill</hi> against you <hi>falsly</hi> for <hi>my sake,</hi> Math. 5.11.12.</p>
+            <p>It is neither <hi>Honour</hi> nor <hi>Blessednesse</hi> (simply considered in it selfe) to be <hi>reviled</hi> or <hi>persecuted;</hi> But yet if you take in all, [<hi>to be despised by those that are bad, because you are good;</hi> or to be <hi>hated</hi> by those that <hi>hate God,</hi> because you <hi>love</hi> him, and stand for his name] it is the <hi>greatest honour</hi> in the world;<note n="*" place="margin">2 <hi>Sam.</hi> 6.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 20.</note>
+               <hi>David</hi> was never <hi>more honoured</hi> then when <hi>Michal</hi> despis'd <hi>him in hir heart,</hi> for his <hi>leaping</hi> and <hi>dancing</hi> before the Lord [<note n="*" place="margin">
+                  <hi>Ver.</hi> 21.</note> it was <hi>before the Lord</hi> (says <hi>David</hi>) and<note n="*" place="margin">
+                  <hi>Ver.</hi> 22.</note> if this be <hi>to be vile,</hi> I will be yet <hi>more vile</hi> then <hi>thus;</hi> And of the <hi>maid-servants,</hi> which thou hast spoken of, <hi>of them shall I be had in honour.</hi> But secondly the text says not, that <hi>[men]</hi> shall honour you, but <hi>[I will honour you;]</hi> And truly as it is but <hi>the shadow of honour</hi> to be honour'd <hi>by men,</hi> if God <hi>contemne,</hi> so it is<note n="*" place="margin">La<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dari à lau<g ref="char:EOLhyphen"/>dat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ea dem<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> est vera laus.</note>
+               <hi>honour sufficient,</hi> to be <hi>honour'd by God,</hi> though all the men in the world should <hi>despise you.</hi> God knows, you will have <hi>hard measure</hi> from the <hi>world</hi> in all the service you doe for him, and therefore God makes this the <hi>reward,</hi> that <hi>[he will honour you;]</hi> I add but this; Others <hi>can not,</hi> if God <hi>will not;</hi> But if God <hi>will,</hi> others <hi>shall</hi> whether they <hi>will</hi> or <hi>no.</hi>
+            </p>
+            <p>You have the <hi>Doctrine</hi> of the text briefly ex<g ref="char:EOLhyphen"/>plained; I can but <hi>hint</hi> the <hi>application.</hi>
+               <note place="margin">§ 15. The text <hi>ap<g ref="char:EOLhyphen"/>plyed.</hi>
+               </note>
+            </p>
+            <pb n="40" facs="tcp:113404:23"/>
+            <p>And so I <hi>resolve the text</hi> again into
+<list>
+                  <item>the <hi>duty.</hi> &amp;</item>
+                  <item>the <hi>motive.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The <hi>duty</hi> is <hi>implicite [to honour God.]</hi>
+            </p>
+            <p>
+               <note place="margin">1. As a <hi>duty.</hi>
+               </note>The <hi>motive</hi> is <hi>explicite [God will honour.]</hi>
+            </p>
+            <p n="1">1.<note n="*" place="margin">Convinced.</note> If you take up the <hi>duty implyed [God will and must be honour'd</hi> [<note n="*" place="margin">
+                  <hi>Malach.</hi> 1.6.</note> There is all the <hi>equity</hi> that can be in it. It is the duty of the <hi>creature</hi> as <hi>a crea<g ref="char:EOLhyphen"/>ture,</hi> and of a <hi>Christian,</hi> as a <hi>Christian,</hi> and of a <hi>Saint</hi> as a <hi>Saint</hi> to <hi>honour God.</hi> [<note n="*" place="margin">
+                  <hi>Rev.</hi> 4 11.</note>
+               <hi>If I be a Father where's mine honour?</hi>] The law of<note n="*" place="margin">
+                  <hi>Titus.</hi> 2.14.</note>
+               <hi>Creation,</hi> the law of <hi>Redemption,</hi> the law of <hi>Election,</hi> the law of <hi>Providence</hi> constraines us unto this Homage.</p>
+            <p>But<note n="*" place="margin">
+                  <hi>Eph.</hi> 4.1.</note> how will God be honourd?</p>
+            <p>First in the<note n="*" place="margin">2. directed.</note>
+               <hi>heart,</hi> and then with the<note n="*" place="margin">
+                  <hi>Prov.</hi> 13.26.</note>
+               <hi>tongue</hi> and then by the<note n="*" place="margin">
+                  <hi>Math.</hi> 25.8.</note>
+               <hi>hands</hi> [as the <hi>Instruments by which God will be honourd.</hi>]</p>
+            <p>In every <hi>relation,</hi> in every <hi>condition,</hi> in every <hi>calling</hi> [as the <hi>way in which</hi> God will be honour'd.]</p>
+            <p>In his<note n="*" place="margin">
+                  <hi>Ps.</hi> 24 4.26 6.</note>
+               <hi>Children,</hi> in his<note n="*" place="margin">
+                  <hi>Math.</hi> 25 40.</note>
+               <hi>Ministers,</hi> in his<note n="*" place="margin">1. <hi>Timoth.</hi> 5.17.</note>
+               <hi>Word,</hi> in his<note n="*" place="margin">
+                  <hi>Eccl.</hi> 4.17.</note>
+               <hi>Works,</hi> in his<note n="*" place="margin">
+                  <hi>Joh.</hi> 26.24.</note>
+               <hi>Wonders, [As the subject on which God must bee honour'd.]</hi> But I must wave all.<note place="margin">
+                  <hi>Ps.</hi> 150.1.2.</note>
+            </p>
+            <p>
+               <note place="margin">II. As a motive.</note>The <hi>Motive</hi> is as <hi>pressing,</hi> as the <hi>duty</hi> is <hi>necessa<g ref="char:EOLhyphen"/>rie [I will honour you.]</hi>
+            </p>
+            <list>
+               <item>1. Here's <hi>honour</hi> for <hi>honour.</hi>
+               </item>
+               <item>2. Here's <hi>a God</hi> to honour you.</item>
+               <item>3. Here's a God, that will honour <hi>all,</hi> that honour him.</item>
+               <item>4. Here's a God, that will honour <hi>none but</hi> them, that honour him.</item>
+            </list>
+            <pb n="41" facs="tcp:113404:23"/>
+            <p>I have but <hi>one motion</hi> to make to <hi>your Honours,</hi>
+               <note place="margin">§ 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. One motion to the Lords of Parliament.</note> and I have done: I <hi>must not flatter</hi> you, I <hi>dare not</hi> flatter you; But yet I dare say this, that <hi>your Ho<g ref="char:EOLhyphen"/>nours have honoured God in your generation.</hi> My <hi>motion</hi> is but <hi>modest</hi> and <hi>honest, [That your Honours would goe on to honour him.]</hi>
+            </p>
+            <p n="1">1. Your Honours <hi>have tooke downe the old frame,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch. </seg>1</label> Ah! let not <hi>Christ wait long</hi> for his <hi>owne govern<g ref="char:EOLhyphen"/>ment.</hi> Why should the <hi>Master</hi> stand so long <hi>knocking at the doore,</hi> when the <hi>servants</hi> are <hi>resolved,</hi> and that <hi>[upon Covenant] to let him in?</hi> Oh! re<g ref="char:EOLhyphen"/>member the <hi>grones,</hi> and <hi>sighes,</hi> and <hi>cryes</hi> of those <hi>honest petitioners,</hi> who have <hi>groand</hi> and <hi>sighed,</hi> and <hi>wept</hi> for <hi>your Honours,</hi> and bee <hi>honest</hi> to <hi>performe</hi> what you have <hi>promised</hi> to <hi>God</hi> and <hi>them.</hi>
+            </p>
+            <p>I professe (my Lords) I am neither for <hi>Paul,</hi> nor <hi>Apollos,</hi> nor <hi>Cephas,</hi> nor <hi>Christ,</hi> till I <hi>know</hi> what <hi>Paul</hi> and <hi>Apollos,</hi> and <hi>Cephas are for,</hi> and what <hi>those,</hi> that <hi>say</hi> they are for <hi>Christ, can say for him.</hi> But I could wish (my Lords) that wee had the <hi>patterne</hi> that every man might <hi>consult</hi> with the <hi>Mount,</hi> which <hi>of the two</hi> is <hi>Christs government.</hi> The <hi>child</hi> is <hi>christned</hi> (for ought I see) before it is <hi>borne,</hi> and we have the <hi>names</hi> before the <hi>things.</hi>
+            </p>
+            <p>Thus farre (my Lords) I presume upon the grant of your owne hearts, that <hi>(since the cessation of the keys)</hi> there hath been <hi>more disorder in the Church of Christ,</hi> then when <hi>the keys</hi> were in a <hi>wi<g ref="char:EOLhyphen"/>thering hand;</hi> I thinke <hi>experience</hi> hath <hi>taught</hi> us all <hi>roundly</hi> by this time <hi>[better a tyrannie then no go<g ref="char:EOLhyphen"/>vernment.]</hi> In some Congregations <hi>no Sacraments,</hi>
+               <pb n="42" facs="tcp:113404:24"/> in other Congregations <hi>bloody Sacraments, God blasphemed, Christ unchristed, the Law outlawd,</hi> the <hi>children of your own loynes robbed</hi> of the <hi>honour</hi> and <hi>discent</hi> of <hi>Baptisme;</hi> And <hi>Women</hi> (my Lords) that have got the <hi>Gowne</hi> as well as the <hi>Tippet;</hi> And how many more <hi>disorders</hi> in the Church (even in this City) under <hi>your Honours kenn,</hi> and all for <hi>want of government.</hi> Let me add but <hi>one sad con<g ref="char:EOLhyphen"/>sideration;</hi> There hath bin much blood <hi>spilt in the field</hi> by this unnaturall warre, but I thinke I may safely speake it, that there hath bin more blood <hi>spilt in the Church,</hi> by the <hi>Errors</hi> and <hi>Here<g ref="char:EOLhyphen"/>sies,</hi> that have <hi>poyson'd</hi> the pure waters of the San<g ref="char:EOLhyphen"/>ctuarie, then all the other comes too; Wee have bin but <hi>anckle-deepe</hi> in the <hi>one (in comparison only,</hi> I speake it, for otherwise wee have bin <hi>up to the chinn)</hi> but, wee have bin <hi>knee-deepe</hi> in the <hi>other,</hi> And <hi>give me favour</hi> to tell you, that <hi>one dropp</hi> of that blood, which hath bin <hi>spilt in the Church,</hi> is <hi>worth all the blood,</hi> that runns in all the veines of <hi>England.</hi>
+            </p>
+            <p n="2">2. You have honour'd God in <hi>topping the Pop<g ref="char:EOLhyphen"/>pyes</hi> [the pride and insolencie of the swelling Clergie.] But let not the faithfull Ministers of Jesus Christ,<note place="margin">1. <hi>Tim</hi> 5.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> goe without their <hi>double honour.</hi> It is <hi>Gods rule</hi> in the Text <hi>[to honour them, that ho<g ref="char:EOLhyphen"/>nour him,]</hi> and therefore it must be <hi>your Rule [to honour them, that honour God.]</hi> Now the honour that God hath conferr'd upon those, that are faith<g ref="char:EOLhyphen"/>full in the Ministrie, is <hi>[double honour]</hi> an <hi>honou<g ref="char:EOLhyphen"/>rable respect,</hi> and an<note n="*" place="margin">
+                  <hi>Stipendia Ho<g ref="char:EOLhyphen"/>noraria.</hi> Anno<g ref="char:EOLhyphen"/>tat. in bibl. fo<g ref="char:EOLhyphen"/>lio.</note>
+               <hi>honourable maintenance;</hi>
+               <pb n="43" facs="tcp:113404:24"/>
+               <note n="*" place="margin">Reverentia &amp; Alimonia. <hi>Am<g ref="char:EOLhyphen"/>bros.</hi> Officium ac sub<g ref="char:EOLhyphen"/>fidium <hi>Beza.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ophil. cum Chrysost.</hi> Item, <hi>Estius</hi> &amp; <hi>Cornelius</hi> a Lapide. Nec impugnat <hi>Calvinus.</hi>
+               </note>So the most Interpreters, both Greeke and La<g ref="char:EOLhyphen"/>tin; Antient and Moderne, Protestant and Pa<g ref="char:EOLhyphen"/>pists (that I have had time to consult with) agree together.</p>
+            <p>Or (if you will) <hi>double honour</hi> i. e.<note n="*" place="margin">Sed probabili<g ref="char:EOLhyphen"/>us judicat hic fieri comparatio<g ref="char:EOLhyphen"/>nem inter Vidu<g ref="char:EOLhyphen"/>as &amp; Presbyte<g ref="char:EOLhyphen"/>ros.</note>
+               <hi>Compara<g ref="char:EOLhyphen"/>tively,</hi> or in <hi>respect</hi> of that honour, which hee had before granted to <hi>Widowes; [Honour widows, that are widows indeed,</hi> v. 2.] But let the <hi>Elders,</hi> that rule well, be counted worthy of <hi>double honour.</hi> u. 17. Now, the <hi>honour</hi> that was done to Widows, was their <hi>honourable maintenance,</hi> being received into the <hi>publick faith</hi> of the Church [<note n="*" place="margin">Vid. <hi>Calv.</hi> in <hi>3</hi> ver.</note>
+               <hi>ut ex publico alerentur</hi>] and therefore in this sence too; there is not only the <hi>honour of maintenance</hi> due to the Mi<g ref="char:EOLhyphen"/>nistrie, but <hi>a double honour of maintenance</hi> above others.</p>
+            <p>Or yet <hi>thirdly</hi> [<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theo<g ref="char:EOLhyphen"/>philact.</note>
+               <hi>Duplex</hi> i. e. <hi>multiplex.] Dou<g ref="char:EOLhyphen"/>ble honour;</hi> i. e.<note n="*" place="margin">
+                  <hi>Duplex</hi> He<g ref="char:EOLhyphen"/>braeis dicitur, <hi>multum</hi> &amp; <hi>Ca<g ref="char:EOLhyphen"/>piosum.</hi> Estius &amp; Cornel. à Lapid.</note> a <hi>liberall</hi> and <hi>bountifull</hi> main<g ref="char:EOLhyphen"/>tenance; And so it is an eligant <hi>Hebraisme,</hi> as <hi>Isai.</hi> 1.2. [<hi>Jerusalem</hi> hath received <hi>double</hi> for her sinns.] and <hi>Jer.</hi> 17.18. [Destroy them with <hi>dou<g ref="char:EOLhyphen"/>ble</hi> destruction] take it in what sence you will. Thus farr the Apostle hath explain'd himselfe, that God hath given this <hi>grant of honour</hi> to all those that <hi>labour</hi> in the Gospell, that they must <hi>live</hi> upon the Gospell; And the Text sayes in the verse following, that they are as <hi>worthy of it,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 8.</note> as the Labourer is of his <hi>reward;</hi> or as the <hi>Ox</hi> is to <hi>share</hi> of the <hi>Corne</hi> that he <hi>treadeth</hi> out.</p>
+            <p>It is an hard case, that the Ministers of the Gospell should be <hi>driven to pleade</hi> for their <hi>owne</hi>
+               <pb n="44" facs="tcp:113404:25"/> dues, when they should be giving of <hi>God his due,</hi> and the <hi>people</hi> theirs. But there is <hi>a necessitie lies upon us,</hi> (not only for our owne sakes) but for your sakes, that <hi>this part of the Gospell be preached;</hi> I think it may be safely spoken, that there was never <hi>more corne trod out</hi> in <hi>England,</hi> and yet <hi>the mouth of the Ox</hi> never so <hi>straight muzzel'd,</hi> as it is (at this day) in most places.</p>
+            <p>I find, that it hath bin<note place="margin">
+                  <hi>Vid.</hi> Reverend Doctor <hi>Staughten</hi> his Sermon upon 1 <hi>Sam.</hi> 2.30.</note>
+               <hi>formerly spoken</hi> of <hi>some</hi> in the City, That their manner is to <hi>deale with their Ministers,</hi> as <hi>Carryers</hi> with their <hi>Horses</hi> [to lay <hi>heavy burthens</hi> upon them, and then to <hi>hang bells</hi> about their necks.] They shall have <hi>hard-worke,</hi> and <hi>great commendations,</hi> but <hi>easie com<g ref="char:EOLhyphen"/>mons;</hi> be <hi>applauded</hi> for excellent Ministers, have <hi>good words,</hi> but <hi>slight wages.</hi> I hope it is <hi>better</hi> with the City <hi>now;</hi> But I am sure it is <hi>bad enough</hi> in the Countrey, where in many places they have a <hi>greedy project</hi> to allow the Ox nothing; but <hi>the straw</hi> for <hi>treading</hi> of the <hi>Corne,</hi> and so <hi>much straw</hi> as themselves please.</p>
+            <p>My Lords, wee know you would have a <hi>lear<g ref="char:EOLhyphen"/>ned Ministrie,</hi> but it is impossible for <hi>Learning</hi> ever to flourish without <hi>maintenance;</hi> You may as well set <hi>Carpenters</hi> to <hi>build</hi> without <hi>tooles,</hi> as send forth Ministers without their <hi>Parchments.</hi>
+            </p>
+            <p>Wee plead not (my Lords) for our <hi>backs</hi> and for our <hi>bellyes,</hi> but for <hi>good bookes,</hi> and <hi>fur<g ref="char:EOLhyphen"/>nisht braines;</hi> There are some that will <hi>seduce</hi> upon cheaper tearmes, but there must bee an ho<g ref="char:EOLhyphen"/>nest provision made, that every Minister may have
+<pb n="45" facs="tcp:113404:25"/> a good <hi>Librarie,</hi> or else the Land is like to have but an <hi>ignorant Ministrie,</hi> and a <hi>perishing people.</hi>
+            </p>
+            <p>Againe (my Lords) wee know that you would have a <hi>gracious people</hi> [to <hi>feare God,</hi> and <hi>honour the King,</hi> and <hi>obey your Honours;</hi>] But it is sufficiently knowne, that a <hi>base Ministrie</hi> can ne<g ref="char:EOLhyphen"/>ver doe good upon the people. The <hi>generall pride</hi> of man is such, that <hi>povertie</hi> is enough to bring a man into <hi>contempt,</hi> though he be never so <hi>faithfull;</hi> And if the <hi>Minister</hi> be once had in <hi>contempt,</hi> the <hi>offering of the Lord will be abhorr'd also.</hi>
+            </p>
+            <p>I would not <hi>offend your Honours,</hi> but I must not <hi>offend God,</hi> by with-holding any thing that should be spoken upon this point. The whole Land is de<g ref="char:EOLhyphen"/>filed with <hi>sacriledge,</hi> with the <hi>spoyles</hi> of the Church, with the <hi>spoyles</hi> of God; And<note place="margin">Read <hi>W. Cra<g ref="char:EOLhyphen"/>shawes</hi> Epistle to Master <hi>Per<g ref="char:EOLhyphen"/>kins</hi> his second Treatise of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e duties and dig<g ref="char:EOLhyphen"/>n ties of Mi<g ref="char:EOLhyphen"/>nisters. And compare it w th master <hi>Stock</hi> on <hi>Ma<g ref="char:EOLhyphen"/>lac.</hi> p 219.</note> a great part of the Church robbed and deprived of a <hi>painfull</hi> Ministrie, because there is not <hi>Honey</hi> e<g ref="char:EOLhyphen"/>nough in many <hi>Hives</hi> to feed a <hi>Droane?</hi>
+            </p>
+            <p>Oh that this may be call'd <hi>The Parliament that restored Impropriations!</hi> It is your <hi>Honour</hi> that you will be call'd the <hi>Parliament</hi> that hath crushed the pride of the swelling Clergie, and it will be your <hi>double honour,</hi> if you <hi>restore the honour,</hi> the <hi>double honour,</hi> that is due to the faithfull Mi<g ref="char:EOLhyphen"/>strie.</p>
+            <p n="3">3. Your Honours have turn'd the <hi>Droane</hi> out of <label type="milestone">
+                  <seg type="milestoneunit">Branch. </seg>3</label> the <hi>Hive.</hi> and cashier'd the <hi>scandalous sonns</hi> of <hi>Ely</hi> from the Priesthood; But I beseech your Ho<g ref="char:EOLhyphen"/>nours, let those in the Ministrie (who have suf<g ref="char:EOLhyphen"/>fer'd only <hi>for conscience sake</hi>) be remembred when
+<pb n="46" facs="tcp:113404:26"/> the Land is settled in peace; And in the meane time, let not <hi>Vzzah</hi> be sufferd to <hi>touch the Arke,</hi> nor the Generation of <hi>Nadab</hi> continue in their presumptions to offer up their <hi>strange fiers.</hi>
+            </p>
+            <p n="4">4. You have bin all this while <hi>Reforming a<g ref="char:EOLhyphen"/>broad,</hi> I beseech your Honours to <hi>remember home.</hi> You would not have <hi>swearers</hi> nor <hi>drunkards,</hi> nor scandalous persons to come unto Gods table; Oh let them not <hi>waite</hi> at <hi>your Honours table.</hi> You have a new-moulded Army, and you would have a <hi>new-moulded Church;</hi> I beseech your Honours to thinke of <hi>Joshuah,</hi> that you may have a <hi>new-moulded familie</hi> [I and my house will serve the Lord.] But I have bin too bold with your Honours, I have done.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAge 23 <hi>veriâ</hi> p 34, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> p 38 m <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Accents in the Greeke wanti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g or false, as p 12, l 7, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p 14, l 15 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>&amp;c.</hi> p 32 ד p 19. <hi>praestantius.</hi>
+            </p>
+            <pb facs="tcp:113404:26"/>
+         </div>
+      </back>
+   </text>
+</TEI>
